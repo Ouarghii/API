@@ -1,0 +1,2706 @@
+product,month_cons,inventory,rec_qte
+1% Milk,14.067,3.188,4.215
+1% Milk,14.067,1.691,5.03
+1% Milk,14.067,3.147,3.8
+1% Milk,14.067,3.71,3.732
+1% Milk,14.067,2.906,4.069
+2% Milk,12.163,2.943,3.695
+2% Milk,12.163,2.338,3.661
+2% Milk,12.163,3.463,3.036
+2% Milk,12.163,2.226,3.998
+2% Milk,12.163,3.968,3.422
+Albacore Tuna,10.921,1.821,3.451
+Albacore Tuna,10.921,2.305,3.458
+Albacore Tuna,10.921,1.669,3.872
+Albacore Tuna,10.921,3.169,3.142
+Albacore Tuna,10.921,2.469,3.356
+Almond Butter Cups,8.766,1.616,2.982
+Almond Butter Cups,8.766,1.744,2.387
+Almond Butter Cups,8.766,2.165,2.703
+Almond Butter Cups,8.766,2.656,2.394
+Almond Butter Cups,8.766,2.758,2.29
+Alphonso Mangoes,9.15,3.979,1.888
+Alphonso Mangoes,9.15,3.364,2.091
+Alphonso Mangoes,9.15,2.625,2.66
+Alphonso Mangoes,9.15,3.336,2.469
+Alphonso Mangoes,9.15,2.198,2.506
+American Cheese Slices,14.621,2.777,5.125
+American Cheese Slices,14.621,2.654,4.347
+American Cheese Slices,14.621,2.613,4.163
+American Cheese Slices,14.621,3.005,4.891
+American Cheese Slices,14.621,3.963,4.196
+Anjou Pears,10.21,1.943,3.347
+Anjou Pears,10.21,2.011,3.382
+Anjou Pears,10.21,1.671,3.063
+Anjou Pears,10.21,2.089,3.156
+Anjou Pears,10.21,1.738,3.418
+Apple Jelly,13.084,3.857,3.54
+Apple Jelly,13.084,2.037,4.388
+Apple Jelly,13.084,3.516,3.878
+Apple Jelly,13.084,1.957,4.229
+Apple Jelly,13.084,1.206,4.732
+Apricot Jam,11.002,3.57,2.645
+Apricot Jam,11.002,1.288,3.804
+Apricot Jam,11.002,2.19,3.211
+Apricot Jam,11.002,2.098,3.299
+Apricot Jam,11.002,3.688,2.495
+Asian Pears,12.348,1.28,4.222
+Asian Pears,12.348,2.944,3.521
+Asian Pears,12.348,1.183,4.155
+Asian Pears,12.348,1.861,3.663
+Asian Pears,12.348,3.064,3.947
+Ataulfo Mangoes,14.671,2.146,4.948
+Ataulfo Mangoes,14.671,2.712,4.015
+Ataulfo Mangoes,14.671,3.338,4.397
+Ataulfo Mangoes,14.671,3.895,3.725
+Ataulfo Mangoes,14.671,3.627,4.175
+Atlantic Salmon,10.604,3.163,3.108
+Atlantic Salmon,10.604,1.043,3.703
+Atlantic Salmon,10.604,2.016,3.234
+Atlantic Salmon,10.604,2.791,3.198
+Atlantic Salmon,10.604,2.652,2.902
+BBQ Chicken Wings,11.748,3.801,3.366
+BBQ Chicken Wings,11.748,3.57,3.292
+BBQ Chicken Wings,11.748,2.212,3.458
+BBQ Chicken Wings,11.748,1.158,3.58
+BBQ Chicken Wings,11.748,1.194,4.518
+BLT Sandwiches,13.443,3.823,3.618
+BLT Sandwiches,13.443,2.693,3.781
+BLT Sandwiches,13.443,3.315,3.488
+BLT Sandwiches,13.443,3.566,3.591
+BLT Sandwiches,13.443,2.809,4.174
+Baby Bananas,11.019,2.061,3.277
+Baby Bananas,11.019,3.414,2.873
+Baby Bananas,11.019,3.647,3.053
+Baby Bananas,11.019,2.786,2.916
+Baby Bananas,11.019,1.059,3.982
+Baby Carrots,13.375,1.84,3.968
+Baby Carrots,13.375,1.052,5.21
+Baby Carrots,13.375,2.876,4.325
+Baby Carrots,13.375,3.078,4.271
+Baby Carrots,13.375,3.587,3.994
+Baby Spinach,8.085,2.958,2.204
+Baby Spinach,8.085,1.011,2.499
+Baby Spinach,8.085,2.474,2.039
+Baby Spinach,8.085,1.16,2.344
+Baby Spinach,8.085,1.946,2.117
+Bagel Sandwiches,9.224,1.517,3.117
+Bagel Sandwiches,9.224,2.753,2.459
+Bagel Sandwiches,9.224,1.963,3.143
+Bagel Sandwiches,9.224,3.873,1.8
+Bagel Sandwiches,9.224,3.044,2.279
+Baguette,11.412,2.464,3.511
+Baguette,11.412,2.029,3.773
+Baguette,11.412,1.445,3.714
+Baguette,11.412,2.561,2.981
+Baguette,11.412,1.307,3.443
+Balsamic Vinaigrette,11.036,1.543,3.979
+Balsamic Vinaigrette,11.036,3.165,2.981
+Balsamic Vinaigrette,11.036,2.223,3.574
+Balsamic Vinaigrette,11.036,2.947,3.399
+Balsamic Vinaigrette,11.036,2.915,3.284
+Bartlett Pears,11.308,2.886,3.349
+Bartlett Pears,11.308,1.684,3.353
+Bartlett Pears,11.308,2.634,2.915
+Bartlett Pears,11.308,1.392,3.979
+Bartlett Pears,11.308,2.449,3.321
+Bay Scallops,10.923,1.646,3.316
+Bay Scallops,10.923,3.517,2.977
+Bay Scallops,10.923,1.512,3.753
+Bay Scallops,10.923,3.932,2.504
+Bay Scallops,10.923,1.307,3.708
+Beef Burgers,9.562,2.65,2.534
+Beef Burgers,9.562,3.259,2.312
+Beef Burgers,9.562,2.5,2.59
+Beef Burgers,9.562,2.413,2.495
+Beef Burgers,9.562,3.19,2.586
+Beef Fried Rice,9.996,3.301,2.359
+Beef Fried Rice,9.996,3.12,2.537
+Beef Fried Rice,9.996,3.903,2.186
+Beef Fried Rice,9.996,2.873,2.393
+Beef Fried Rice,9.996,2.665,2.549
+Beef Hot Dogs,12.029,3.388,3.02
+Beef Hot Dogs,12.029,1.018,4.357
+Beef Hot Dogs,12.029,1.225,4.468
+Beef Hot Dogs,12.029,1.833,4.048
+Beef Hot Dogs,12.029,1.362,3.757
+Beef Sausages,10.992,3.398,2.624
+Beef Sausages,10.992,2.599,3.516
+Beef Sausages,10.992,1.702,3.424
+Beef Sausages,10.992,1.879,3.226
+Beef Sausages,10.992,3.055,2.712
+Beef Stir-fry,11.785,1.227,3.552
+Beef Stir-fry,11.785,1.199,4.142
+Beef Stir-fry,11.785,1.63,3.568
+Beef Stir-fry,11.785,3.315,3.054
+Beef Stir-fry,11.785,3.328,3.37
+Beef Tacos,12.878,1.944,3.714
+Beef Tacos,12.878,3.957,3.577
+Beef Tacos,12.878,2.083,4.574
+Beef Tacos,12.878,2.075,4.073
+Beef Tacos,12.878,3.919,3.42
+Beefsteak Tomatoes,13.999,3.503,4.153
+Beefsteak Tomatoes,13.999,1.35,4.363
+Beefsteak Tomatoes,13.999,1.096,5.074
+Beefsteak Tomatoes,13.999,1.628,5.198
+Beefsteak Tomatoes,13.999,2.981,4.614
+Black Bean Burritos,13.062,2.779,3.848
+Black Bean Burritos,13.062,3.418,3.693
+Black Bean Burritos,13.062,2.718,4.093
+Black Bean Burritos,13.062,1.956,4.585
+Black Bean Burritos,13.062,1.227,4.685
+Black Bean Salad,9.058,2.098,2.675
+Black Bean Salad,9.058,2.347,2.58
+Black Bean Salad,9.058,1.206,2.751
+Black Bean Salad,9.058,2.441,2.774
+Black Bean Salad,9.058,3.824,2.101
+Black Bean Soup,14.469,1.589,4.765
+Black Bean Soup,14.469,3.044,4.317
+Black Bean Soup,14.469,1.932,4.506
+Black Bean Soup,14.469,1.585,4.827
+Black Bean Soup,14.469,3.289,3.731
+Black Olives,12.896,3.993,3.739
+Black Olives,12.896,2.877,4.266
+Black Olives,12.896,2.359,3.928
+Black Olives,12.896,3.809,3.465
+Black Olives,12.896,1.358,4.611
+Black Seedless Grapes,9.191,2.074,2.548
+Black Seedless Grapes,9.191,1.449,3.114
+Black Seedless Grapes,9.191,2.47,2.358
+Black Seedless Grapes,9.191,3.392,2.31
+Black Seedless Grapes,9.191,2.292,2.462
+Blood Oranges,8.23,3.355,1.781
+Blood Oranges,8.23,3.409,1.933
+Blood Oranges,8.23,3.972,1.546
+Blood Oranges,8.23,1.528,2.716
+Blood Oranges,8.23,3.671,1.802
+Blue Cheese Spread,8.314,2.53,2.275
+Blue Cheese Spread,8.314,1.406,2.543
+Blue Cheese Spread,8.314,3.951,1.498
+Blue Cheese Spread,8.314,1.373,2.441
+Blue Cheese Spread,8.314,2.561,2.056
+Blueberries,12.663,2.899,3.377
+Blueberries,12.663,3.162,3.844
+Blueberries,12.663,1.805,4.409
+Blueberries,12.663,1.383,4.426
+Blueberries,12.663,2.941,3.758
+Blueberry Bagels,8.218,2.049,2.089
+Blueberry Bagels,8.218,2.541,2.167
+Blueberry Bagels,8.218,3.527,1.648
+Blueberry Bagels,8.218,3.284,1.842
+Blueberry Bagels,8.218,2.718,1.904
+Blueberry Jam,13.71,1.076,4.326
+Blueberry Jam,13.71,2.585,4.802
+Blueberry Jam,13.71,1.271,4.997
+Blueberry Jam,13.71,1.365,4.734
+Blueberry Jam,13.71,1.447,4.776
+Blueberry Muffins,11.861,3.833,3.21
+Blueberry Muffins,11.861,1.967,3.42
+Blueberry Muffins,11.861,3.423,3.253
+Blueberry Muffins,11.861,1.577,4.072
+Blueberry Muffins,11.861,2.811,3.282
+Blueberry Yogurt,12.425,1.626,4.418
+Blueberry Yogurt,12.425,1.282,4.021
+Blueberry Yogurt,12.425,2.862,3.491
+Blueberry Yogurt,12.425,2.356,3.613
+Blueberry Yogurt,12.425,1.466,4.07
+Boneless Pork Chops,11.087,3.003,3.308
+Boneless Pork Chops,11.087,2.809,3.143
+Boneless Pork Chops,11.087,1.753,4.029
+Boneless Pork Chops,11.087,2.008,3.089
+Boneless Pork Chops,11.087,1.219,3.796
+Boneless Skinless Chicken Breast,11.565,2.659,3.816
+Boneless Skinless Chicken Breast,11.565,2.448,3.592
+Boneless Skinless Chicken Breast,11.565,2.801,3.34
+Boneless Skinless Chicken Breast,11.565,2.15,4.012
+Boneless Skinless Chicken Breast,11.565,2.731,3.672
+Bosc Pears,11.272,1.21,3.382
+Bosc Pears,11.272,2.605,3.077
+Bosc Pears,11.272,3.836,2.69
+Bosc Pears,11.272,1.639,3.4
+Bosc Pears,11.272,2.081,3.705
+Bread and Butter Pickles,8.098,3.641,1.787
+Bread and Butter Pickles,8.098,3.36,1.851
+Bread and Butter Pickles,8.098,2.819,1.937
+Bread and Butter Pickles,8.098,3.61,1.728
+Bread and Butter Pickles,8.098,3.227,1.917
+Broccoli,12.404,1.426,3.848
+Broccoli,12.404,1.737,4.38
+Broccoli,12.404,2.228,4.026
+Broccoli,12.404,1.049,4.659
+Broccoli,12.404,1.881,3.76
+Broccoli Florets,9.046,2.025,2.455
+Broccoli Florets,9.046,1.984,2.523
+Broccoli Florets,9.046,3.664,2.122
+Broccoli Florets,9.046,2.044,2.369
+Broccoli Florets,9.046,3.467,2.123
+Broccoli Salad,10.233,2.066,2.982
+Broccoli Salad,10.233,3.683,2.306
+Broccoli Salad,10.233,1.665,3.024
+Broccoli Salad,10.233,2.797,3.168
+Broccoli Salad,10.233,2.441,2.756
+Broccoli Soup,14.217,2.192,4.195
+Broccoli Soup,14.217,3.334,4.374
+Broccoli Soup,14.217,2.183,4.319
+Broccoli Soup,14.217,3.581,3.896
+Broccoli Soup,14.217,1.54,5.47
+Broccolini,10.216,3.506,2.855
+Broccolini,10.216,1.783,3.346
+Broccolini,10.216,3.569,2.333
+Broccolini,10.216,1.738,3.542
+Broccolini,10.216,2.831,2.572
+Brown Basmati Rice,14.713,2.153,4.838
+Brown Basmati Rice,14.713,1.049,5.657
+Brown Basmati Rice,14.713,3.308,4.049
+Brown Basmati Rice,14.713,1.381,4.614
+Brown Basmati Rice,14.713,2.364,5.15
+Brown Jasmine Rice,8.749,3.367,2.264
+Brown Jasmine Rice,8.749,3.969,1.837
+Brown Jasmine Rice,8.749,1.69,2.422
+Brown Jasmine Rice,8.749,2.316,2.31
+Brown Jasmine Rice,8.749,2.592,2.286
+Brown Lentils,11.071,1.889,3.07
+Brown Lentils,11.071,3.429,2.742
+Brown Lentils,11.071,3.987,2.504
+Brown Lentils,11.071,1.227,3.812
+Brown Lentils,11.071,1.878,3.25
+Brown Long-Grain Rice,9.765,3.689,2.03
+Brown Long-Grain Rice,9.765,2.415,2.479
+Brown Long-Grain Rice,9.765,3.533,2.59
+Brown Long-Grain Rice,9.765,2.391,2.839
+Brown Long-Grain Rice,9.765,1.552,2.74
+Buffalo Cheese Balls,9.856,2.019,3.076
+Buffalo Cheese Balls,9.856,3.119,2.511
+Buffalo Cheese Balls,9.856,2.911,2.721
+Buffalo Cheese Balls,9.856,2.38,2.732
+Buffalo Cheese Balls,9.856,1.517,3.152
+Buffalo Chicken Wings,14.087,3.345,4.054
+Buffalo Chicken Wings,14.087,2.458,4.111
+Buffalo Chicken Wings,14.087,3.975,4.312
+Buffalo Chicken Wings,14.087,1.496,5.412
+Buffalo Chicken Wings,14.087,3.65,3.838
+Burger Buns,11.105,3.053,3.355
+Burger Buns,11.105,3.284,3.319
+Burger Buns,11.105,3.963,3.056
+Burger Buns,11.105,2.509,3.22
+Burger Buns,11.105,2.949,3.046
+Burritos,12.25,2.583,3.506
+Burritos,12.25,1.423,4.328
+Burritos,12.25,1.782,4.398
+Burritos,12.25,3.167,3.596
+Burritos,12.25,1.139,4.462
+Butter Lettuce,8.662,1.188,2.733
+Butter Lettuce,8.662,2.149,2.801
+Butter Lettuce,8.662,2.505,2.134
+Butter Lettuce,8.662,1.102,3.162
+Butter Lettuce,8.662,3.51,1.993
+Caesar Dressing,14.499,3.215,4.195
+Caesar Dressing,14.499,1.679,4.792
+Caesar Dressing,14.499,2.979,4.46
+Caesar Dressing,14.499,2.349,5.227
+Caesar Dressing,14.499,3.976,4.198
+Caesar Salad,9.826,3.137,2.72
+Caesar Salad,9.826,1.259,2.924
+Caesar Salad,9.826,3.657,2.514
+Caesar Salad,9.826,3.437,2.617
+Caesar Salad,9.826,2.052,2.969
+California Rolls,11.558,2.337,3.394
+California Rolls,11.558,3.606,3.219
+California Rolls,11.558,3.506,2.877
+California Rolls,11.558,2.115,3.356
+California Rolls,11.558,2.961,2.985
+Canned Black Beans,8.251,3.429,1.608
+Canned Black Beans,8.251,1.793,2.544
+Canned Black Beans,8.251,3.208,1.77
+Canned Black Beans,8.251,1.877,2.621
+Canned Black Beans,8.251,3.028,2.092
+Canned Chickpeas,9.154,2.537,2.315
+Canned Chickpeas,9.154,2.469,2.37
+Canned Chickpeas,9.154,3.188,2.459
+Canned Chickpeas,9.154,3.657,1.876
+Canned Chickpeas,9.154,3.503,2.415
+Canned Corn,11.538,2.616,3.127
+Canned Corn,11.538,3.552,3.234
+Canned Corn,11.538,1.413,4.017
+Canned Corn,11.538,1.37,3.429
+Canned Corn,11.538,1.174,3.916
+Canned Green Beans,11.572,1.885,3.999
+Canned Green Beans,11.572,1.902,4.179
+Canned Green Beans,11.572,2.572,3.405
+Canned Green Beans,11.572,2.11,3.332
+Canned Green Beans,11.572,2.54,3.335
+Canned Kidney Beans,13.117,1.166,4.918
+Canned Kidney Beans,13.117,2.693,3.538
+Canned Kidney Beans,13.117,1.075,4.783
+Canned Kidney Beans,13.117,3.725,3.512
+Canned Kidney Beans,13.117,2.681,4.214
+Canned Peaches,13.461,2.944,3.831
+Canned Peaches,13.461,2.405,4.528
+Canned Peaches,13.461,3.635,4.083
+Canned Peaches,13.461,3.202,3.774
+Canned Peaches,13.461,3.515,4.256
+Canned Peas,12.721,1.942,4.177
+Canned Peas,12.721,3.027,3.377
+Canned Peas,12.721,3.823,3.591
+Canned Peas,12.721,3.939,3.374
+Canned Peas,12.721,3.405,3.476
+Canned Tuna,14.712,3.802,4.575
+Canned Tuna,14.712,1.161,4.808
+Canned Tuna,14.712,3.923,3.903
+Canned Tuna,14.712,1.197,5.148
+Canned Tuna,14.712,2.4,4.896
+Cara Cara Oranges,14.325,1.7,5.383
+Cara Cara Oranges,14.325,3.716,4.205
+Cara Cara Oranges,14.325,2.39,4.426
+Cara Cara Oranges,14.325,2.69,4.653
+Cara Cara Oranges,14.325,1.923,4.344
+Carrot Juice,10.235,2.146,2.794
+Carrot Juice,10.235,3.463,2.525
+Carrot Juice,10.235,1.627,3.275
+Carrot Juice,10.235,1.237,3.103
+Carrot Juice,10.235,2.563,2.575
+Carrot Sticks,12.023,1.983,3.749
+Carrot Sticks,12.023,2.594,3.632
+Carrot Sticks,12.023,2.778,3.171
+Carrot Sticks,12.023,1.034,4.739
+Carrot Sticks,12.023,3.432,3.589
+Carrots,12.893,2.777,3.505
+Carrots,12.893,1.536,4.553
+Carrots,12.893,1.807,4.179
+Carrots,12.893,2.432,4.44
+Carrots,12.893,3.809,3.608
+Cashew Butter Energy Balls,11.493,3.32,2.755
+Cashew Butter Energy Balls,11.493,2.593,3.434
+Cashew Butter Energy Balls,11.493,1.116,3.56
+Cashew Butter Energy Balls,11.493,2.223,3.254
+Cashew Butter Energy Balls,11.493,1.856,3.962
+Cauliflower Florets,9.668,3.311,2.27
+Cauliflower Florets,9.668,3.883,2.193
+Cauliflower Florets,9.668,1.808,3.215
+Cauliflower Florets,9.668,2.862,2.684
+Cauliflower Florets,9.668,2.963,2.449
+Cauliflower Head,12.128,1.921,4.171
+Cauliflower Head,12.128,2.903,3.694
+Cauliflower Head,12.128,3.815,3.233
+Cauliflower Head,12.128,1.68,3.964
+Cauliflower Head,12.128,1.599,3.761
+Cauliflower Pizza Crust,11.406,3.081,3.375
+Cauliflower Pizza Crust,11.406,2.393,3.277
+Cauliflower Pizza Crust,11.406,3.397,3.008
+Cauliflower Pizza Crust,11.406,3.283,2.901
+Cauliflower Pizza Crust,11.406,3.152,3.419
+Cauliflower Rice,13.914,3.547,3.557
+Cauliflower Rice,13.914,1.284,4.684
+Cauliflower Rice,13.914,2.972,4.312
+Cauliflower Rice,13.914,1.356,4.809
+Cauliflower Rice,13.914,2.75,3.941
+Center-Cut Pork Chops,13.302,3.671,3.503
+Center-Cut Pork Chops,13.302,3.163,4.336
+Center-Cut Pork Chops,13.302,1.073,4.766
+Center-Cut Pork Chops,13.302,3.443,3.691
+Center-Cut Pork Chops,13.302,1.63,3.909
+Cheddar Cheese Balls,13.599,3.835,4.181
+Cheddar Cheese Balls,13.599,3.424,3.773
+Cheddar Cheese Balls,13.599,1.707,4.614
+Cheddar Cheese Balls,13.599,2.421,4.804
+Cheddar Cheese Balls,13.599,2.034,4.96
+Cheddar Cheese Slices,10.746,3.264,3.06
+Cheddar Cheese Slices,10.746,1.831,3.699
+Cheddar Cheese Slices,10.746,3.133,3.216
+Cheddar Cheese Slices,10.746,2.837,2.769
+Cheddar Cheese Slices,10.746,1.621,3.524
+Cheese Pizza,14.494,3.986,4.003
+Cheese Pizza,14.494,1.866,5.173
+Cheese Pizza,14.494,3.827,4.141
+Cheese Pizza,14.494,2.697,5.033
+Cheese Pizza,14.494,2.779,4.585
+Cherry Tomatoes,9.578,1.319,3.096
+Cherry Tomatoes,9.578,3.672,2.207
+Cherry Tomatoes,9.578,1.908,2.661
+Cherry Tomatoes,9.578,3.196,2.496
+Cherry Tomatoes,9.578,1.493,3.311
+Chicken Breast Strips,11.534,2.087,4.068
+Chicken Breast Strips,11.534,1.534,4.261
+Chicken Breast Strips,11.534,2.715,2.955
+Chicken Breast Strips,11.534,1.206,4.418
+Chicken Breast Strips,11.534,3.032,3.457
+Chicken Burgers,11.019,3.589,3.156
+Chicken Burgers,11.019,2.288,3.434
+Chicken Burgers,11.019,3.549,2.491
+Chicken Burgers,11.019,1.101,4.086
+Chicken Burgers,11.019,2.943,3.487
+Chicken Curry,11.237,2.017,3.559
+Chicken Curry,11.237,3.962,2.426
+Chicken Curry,11.237,3.492,2.653
+Chicken Curry,11.237,3.762,3.232
+Chicken Curry,11.237,2.544,3.391
+Chicken Fajitas,10.217,3.363,2.356
+Chicken Fajitas,10.217,2.208,2.847
+Chicken Fajitas,10.217,1.682,3.637
+Chicken Fajitas,10.217,2.274,3.176
+Chicken Fajitas,10.217,3.863,2.586
+Chicken Fried Rice,12.91,2.876,3.653
+Chicken Fried Rice,12.91,2.292,4.25
+Chicken Fried Rice,12.91,1.719,3.82
+Chicken Fried Rice,12.91,3.145,3.506
+Chicken Fried Rice,12.91,2.473,4.282
+Chicken Hot Dogs,12.599,1.426,4.664
+Chicken Hot Dogs,12.599,2.174,3.97
+Chicken Hot Dogs,12.599,3.094,3.27
+Chicken Hot Dogs,12.599,3.262,3.216
+Chicken Hot Dogs,12.599,2.355,4.411
+Chicken Sandwiches,14.292,2.48,4.79
+Chicken Sandwiches,14.292,3.018,4.099
+Chicken Sandwiches,14.292,3.453,3.765
+Chicken Sandwiches,14.292,2.789,4.587
+Chicken Sandwiches,14.292,2.316,4.211
+Chicken Sausages,9.239,1.216,3.01
+Chicken Sausages,9.239,3.474,2.023
+Chicken Sausages,9.239,3.798,2.302
+Chicken Sausages,9.239,1.535,3.203
+Chicken Sausages,9.239,3.326,2.464
+Chicken Stir-fry,12.153,2.094,4.08
+Chicken Stir-fry,12.153,2.124,3.429
+Chicken Stir-fry,12.153,2.179,4.01
+Chicken Stir-fry,12.153,2.8,3.344
+Chicken Stir-fry,12.153,2.088,4.229
+Chicken Tacos,14.542,3.017,4.056
+Chicken Tacos,14.542,1.324,4.704
+Chicken Tacos,14.542,2.05,5.261
+Chicken Tacos,14.542,1.135,4.954
+Chicken Tacos,14.542,1.87,5.275
+Chicken Wing Dip,9.461,3.105,2.626
+Chicken Wing Dip,9.461,3.497,2.454
+Chicken Wing Dip,9.461,3.431,2.188
+Chicken Wing Dip,9.461,1.136,3.157
+Chicken Wing Dip,9.461,3.624,2.379
+Chickpea Flour,14.634,3.301,3.919
+Chickpea Flour,14.634,3.457,3.93
+Chickpea Flour,14.634,2.148,4.904
+Chickpea Flour,14.634,1.363,5.163
+Chickpea Flour,14.634,1.344,5.467
+Chickpea Salad,9.741,1.493,3.074
+Chickpea Salad,9.741,1.795,3.059
+Chickpea Salad,9.741,1.341,3.06
+Chickpea Salad,9.741,3.523,2.599
+Chickpea Salad,9.741,1.956,2.749
+Chocolate Milk,8.737,3.073,1.996
+Chocolate Milk,8.737,1.164,3.111
+Chocolate Milk,8.737,3.722,2.088
+Chocolate Milk,8.737,3.476,2.279
+Chocolate Milk,8.737,1.335,3.001
+Chocolate-covered Strawberries,8.719,3.567,1.974
+Chocolate-covered Strawberries,8.719,2.829,2.254
+Chocolate-covered Strawberries,8.719,2.949,2.147
+Chocolate-covered Strawberries,8.719,3.949,2.059
+Chocolate-covered Strawberries,8.719,2.791,2.34
+Chunky Guacamole,14.508,1.082,5.05
+Chunky Guacamole,14.508,2.544,4.437
+Chunky Guacamole,14.508,3.245,3.789
+Chunky Guacamole,14.508,3.814,4.052
+Chunky Guacamole,14.508,3.904,4.452
+Chunky Salsa,14.692,2.694,5.006
+Chunky Salsa,14.692,1.696,4.615
+Chunky Salsa,14.692,2.486,4.802
+Chunky Salsa,14.692,3.175,4.083
+Chunky Salsa,14.692,2.639,4.794
+Cinnamon Raisin Bagels,8.271,1.834,2.73
+Cinnamon Raisin Bagels,8.271,2.156,2.499
+Cinnamon Raisin Bagels,8.271,2.649,2.052
+Cinnamon Raisin Bagels,8.271,2.805,2.326
+Cinnamon Raisin Bagels,8.271,1.328,2.825
+Classic Guacamole,8.285,1.522,2.693
+Classic Guacamole,8.285,1.093,2.629
+Classic Guacamole,8.285,1.164,2.678
+Classic Guacamole,8.285,2.221,2.118
+Classic Guacamole,8.285,2.626,2.117
+Clover Honey,8.335,3.626,2.022
+Clover Honey,8.335,1.584,2.7
+Clover Honey,8.335,3.966,1.862
+Clover Honey,8.335,1.273,2.855
+Clover Honey,8.335,2.308,2.347
+Concord Grapes,13.099,2.203,3.814
+Concord Grapes,13.099,2.067,4.254
+Concord Grapes,13.099,3.557,3.847
+Concord Grapes,13.099,1.095,4.16
+Concord Grapes,13.099,1.324,4.036
+Cooked Shrimp,14.062,1.883,4.226
+Cooked Shrimp,14.062,1.737,5.073
+Cooked Shrimp,14.062,1.348,4.646
+Cooked Shrimp,14.062,3.215,4.522
+Cooked Shrimp,14.062,2.142,4.903
+Corn Chips,9.653,1.661,2.754
+Corn Chips,9.653,2.751,2.401
+Corn Chips,9.653,2.41,2.808
+Corn Chips,9.653,2.917,2.71
+Corn Chips,9.653,3.074,2.796
+Corn Tortillas,13.126,1.709,3.939
+Corn Tortillas,13.126,2.337,4.107
+Corn Tortillas,13.126,3.721,3.33
+Corn Tortillas,13.126,3.602,3.347
+Corn Tortillas,13.126,2.05,3.986
+Corn on the Cob,8.126,3.121,2.067
+Corn on the Cob,8.126,3.5,2.002
+Corn on the Cob,8.126,2.014,2.462
+Corn on the Cob,8.126,2.247,1.962
+Corn on the Cob,8.126,3.515,1.884
+Cornbread,14.839,3.65,4.776
+Cornbread,14.839,1.431,5.132
+Cornbread,14.839,3.34,4.523
+Cornbread,14.839,2.861,4.139
+Cornbread,14.839,2.914,4.706
+Cottage Cheese Pancakes,13.294,1.108,4.899
+Cottage Cheese Pancakes,13.294,3.878,3.825
+Cottage Cheese Pancakes,13.294,3.082,4.115
+Cottage Cheese Pancakes,13.294,2.033,4.472
+Cottage Cheese Pancakes,13.294,3.802,4.081
+Crab Cakes,14.828,3.753,4.241
+Crab Cakes,14.828,1.688,5.165
+Crab Cakes,14.828,3.256,4.557
+Crab Cakes,14.828,2.984,4.022
+Crab Cakes,14.828,1.204,4.992
+Crab Salad,10.314,1.522,3.069
+Crab Salad,10.314,2.632,3.311
+Crab Salad,10.314,2.867,2.525
+Crab Salad,10.314,2.121,3.266
+Crab Salad,10.314,3.147,2.575
+Cream Cheese Frosting,9.922,3.412,2.748
+Cream Cheese Frosting,9.922,2.329,3.174
+Cream Cheese Frosting,9.922,1.054,3.6
+Cream Cheese Frosting,9.922,3.857,2.362
+Cream Cheese Frosting,9.922,3.113,2.316
+Creamy Cashew Butter,11.496,1.72,4.094
+Creamy Cashew Butter,11.496,3.219,3.494
+Creamy Cashew Butter,11.496,2.124,3.759
+Creamy Cashew Butter,11.496,2.608,3.33
+Creamy Cashew Butter,11.496,1.566,3.368
+Creamy Peanut Butter,14.346,1.246,5.396
+Creamy Peanut Butter,14.346,2.584,3.982
+Creamy Peanut Butter,14.346,1.343,4.787
+Creamy Peanut Butter,14.346,3.557,4.634
+Creamy Peanut Butter,14.346,3.797,4.39
+Cremini Mushrooms,13.898,2.36,4.053
+Cremini Mushrooms,13.898,1.802,4.303
+Cremini Mushrooms,13.898,1.677,4.302
+Cremini Mushrooms,13.898,2.268,4.635
+Cremini Mushrooms,13.898,2.632,4.677
+Croissants,11.787,3.724,3.068
+Croissants,11.787,2.738,3.147
+Croissants,11.787,3.247,3.386
+Croissants,11.787,1.915,3.891
+Croissants,11.787,1.47,4.084
+Crunchy Almond Butter,11.307,2.416,3.294
+Crunchy Almond Butter,11.307,3.498,2.978
+Crunchy Almond Butter,11.307,3.571,3.292
+Crunchy Almond Butter,11.307,1.123,4.087
+Crunchy Almond Butter,11.307,1.586,3.566
+Crunchy Cashew Butter,12.34,3.507,3.278
+Crunchy Cashew Butter,12.34,1.308,3.689
+Crunchy Cashew Butter,12.34,3.966,2.949
+Crunchy Cashew Butter,12.34,3.252,3.394
+Crunchy Cashew Butter,12.34,3.918,2.918
+Crunchy Hazelnut Butter,8.112,3.894,1.734
+Crunchy Hazelnut Butter,8.112,2.784,2.119
+Crunchy Hazelnut Butter,8.112,1.562,2.595
+Crunchy Hazelnut Butter,8.112,1.271,2.657
+Crunchy Hazelnut Butter,8.112,1.61,2.536
+Crunchy Peanut Butter,10.745,2.028,3.035
+Crunchy Peanut Butter,10.745,1.826,3.207
+Crunchy Peanut Butter,10.745,1.949,3.511
+Crunchy Peanut Butter,10.745,1.975,3.106
+Crunchy Peanut Butter,10.745,1.64,3.614
+Crunchy Sunflower Seed Butter,11.703,3.683,3.44
+Crunchy Sunflower Seed Butter,11.703,2.577,3.48
+Crunchy Sunflower Seed Butter,11.703,2.905,3.567
+Crunchy Sunflower Seed Butter,11.703,1.468,4.279
+Crunchy Sunflower Seed Butter,11.703,1.374,4.17
+Cucumber Water,12.471,3.345,3.572
+Cucumber Water,12.471,1.205,4.266
+Cucumber Water,12.471,1.555,3.875
+Cucumber Water,12.471,3.814,3.522
+Cucumber Water,12.471,3.913,3.413
+Curry Paste,9.233,2.028,3.105
+Curry Paste,9.233,3.632,2.218
+Curry Paste,9.233,1.575,2.684
+Curry Paste,9.233,2.0,2.462
+Curry Paste,9.233,3.298,2.311
+Dijon Mustard,12.605,1.226,4.541
+Dijon Mustard,12.605,1.461,3.985
+Dijon Mustard,12.605,2.985,3.465
+Dijon Mustard,12.605,3.715,3.281
+Dijon Mustard,12.605,1.535,3.767
+Dill Pickles,14.926,1.366,5.632
+Dill Pickles,14.926,1.755,5.241
+Dill Pickles,14.926,2.613,5.276
+Dill Pickles,14.926,2.675,4.143
+Dill Pickles,14.926,3.395,4.178
+Dried Black Beans,12.281,1.189,3.891
+Dried Black Beans,12.281,3.484,3.427
+Dried Black Beans,12.281,1.839,3.804
+Dried Black Beans,12.281,3.544,3.625
+Dried Black Beans,12.281,3.752,3.486
+Dried Chickpeas,11.023,3.371,2.799
+Dried Chickpeas,11.023,1.232,3.93
+Dried Chickpeas,11.023,2.185,3.659
+Dried Chickpeas,11.023,1.475,3.509
+Dried Chickpeas,11.023,3.091,3.092
+Dried Kidney Beans,13.395,1.399,4.389
+Dried Kidney Beans,13.395,2.648,4.149
+Dried Kidney Beans,13.395,3.392,3.902
+Dried Kidney Beans,13.395,2.035,4.568
+Dried Kidney Beans,13.395,1.671,4.274
+Dungeness Crab,10.78,2.538,2.881
+Dungeness Crab,10.78,1.571,3.211
+Dungeness Crab,10.78,2.505,3.223
+Dungeness Crab,10.78,2.502,2.999
+Dungeness Crab,10.78,1.557,3.435
+Egg Salad,9.503,1.912,3.253
+Egg Salad,9.503,2.094,2.9
+Egg Salad,9.503,1.169,3.407
+Egg Salad,9.503,3.486,2.564
+Egg Salad,9.503,1.066,2.962
+English Cucumbers,13.438,2.88,3.559
+English Cucumbers,13.438,2.29,4.351
+English Cucumbers,13.438,2.603,3.858
+English Cucumbers,13.438,3.685,3.305
+English Cucumbers,13.438,3.165,4.02
+Everything Bagels,13.57,2.551,4.509
+Everything Bagels,13.57,2.545,4.467
+Everything Bagels,13.57,3.498,3.644
+Everything Bagels,13.57,3.249,3.779
+Everything Bagels,13.57,3.104,3.566
+Fat-Free Sour Cream,12.911,1.136,4.175
+Fat-Free Sour Cream,12.911,2.866,4.096
+Fat-Free Sour Cream,12.911,3.075,3.863
+Fat-Free Sour Cream,12.911,1.2,4.482
+Fat-Free Sour Cream,12.911,1.443,4.267
+Filet Mignon Steak,11.46,1.881,3.537
+Filet Mignon Steak,11.46,3.854,3.057
+Filet Mignon Steak,11.46,2.483,3.122
+Filet Mignon Steak,11.46,2.448,3.449
+Filet Mignon Steak,11.46,3.268,3.457
+Fish Tacos,8.042,2.814,1.961
+Fish Tacos,8.042,3.482,1.841
+Fish Tacos,8.042,1.231,2.513
+Fish Tacos,8.042,3.185,1.872
+Fish Tacos,8.042,3.961,1.758
+Flavored Butter,8.635,2.397,2.13
+Flavored Butter,8.635,2.488,2.24
+Flavored Butter,8.635,3.333,2.169
+Flavored Butter,8.635,1.094,2.526
+Flavored Butter,8.635,1.661,2.662
+Flavored Cottage Cheese,13.314,3.983,3.599
+Flavored Cottage Cheese,13.314,1.865,4.486
+Flavored Cottage Cheese,13.314,3.049,3.865
+Flavored Cottage Cheese,13.314,2.815,3.879
+Flavored Cottage Cheese,13.314,3.658,3.634
+Flavored Cream Cheese,8.57,3.463,2.112
+Flavored Cream Cheese,8.57,3.908,1.769
+Flavored Cream Cheese,8.57,2.813,2.162
+Flavored Cream Cheese,8.57,3.357,2.006
+Flavored Cream Cheese,8.57,3.202,1.836
+Flavored Yogurt,14.009,2.754,4.339
+Flavored Yogurt,14.009,3.696,3.912
+Flavored Yogurt,14.009,3.899,3.371
+Flavored Yogurt,14.009,1.176,5.472
+Flavored Yogurt,14.009,1.607,4.244
+Flour Tortillas,13.558,3.983,3.327
+Flour Tortillas,13.558,1.49,4.417
+Flour Tortillas,13.558,2.481,4.653
+Flour Tortillas,13.558,1.122,4.706
+Flour Tortillas,13.558,2.033,4.014
+French Lentils,10.709,2.377,2.818
+French Lentils,10.709,2.886,2.868
+French Lentils,10.709,2.832,3.034
+French Lentils,10.709,2.575,3.334
+French Lentils,10.709,1.373,3.716
+French Onion Soup,13.354,2.625,4.382
+French Onion Soup,13.354,2.65,4.049
+French Onion Soup,13.354,2.276,3.777
+French Onion Soup,13.354,1.705,4.288
+French Onion Soup,13.354,2.628,4.305
+Fried Rice,8.948,2.358,2.204
+Fried Rice,8.948,1.07,3.098
+Fried Rice,8.948,2.004,2.73
+Fried Rice,8.948,3.594,2.137
+Fried Rice,8.948,1.55,2.837
+Frozen Blueberries,10.067,2.568,3.122
+Frozen Blueberries,10.067,1.175,3.242
+Frozen Blueberries,10.067,1.474,3.438
+Frozen Blueberries,10.067,2.953,2.562
+Frozen Blueberries,10.067,1.801,2.793
+Frozen Corn,9.07,2.471,2.479
+Frozen Corn,9.07,1.511,2.652
+Frozen Corn,9.07,1.633,2.651
+Frozen Corn,9.07,1.353,2.764
+Frozen Corn,9.07,2.544,2.631
+Frozen Green Beans,10.366,2.861,2.652
+Frozen Green Beans,10.366,1.339,3.446
+Frozen Green Beans,10.366,2.884,3.233
+Frozen Green Beans,10.366,1.536,3.655
+Frozen Green Beans,10.366,2.316,2.684
+Frozen Mangoes,14.602,2.891,4.964
+Frozen Mangoes,14.602,2.022,5.174
+Frozen Mangoes,14.602,3.8,4.363
+Frozen Mangoes,14.602,1.819,5.103
+Frozen Mangoes,14.602,2.231,4.612
+Frozen Peas,9.882,2.98,2.422
+Frozen Peas,9.882,2.644,2.705
+Frozen Peas,9.882,3.397,2.225
+Frozen Peas,9.882,1.119,3.168
+Frozen Peas,9.882,2.325,2.923
+Frozen Pizza,12.976,1.052,3.991
+Frozen Pizza,12.976,1.001,4.865
+Frozen Pizza,12.976,3.112,3.893
+Frozen Pizza,12.976,3.353,3.612
+Frozen Pizza,12.976,1.718,4.801
+Frozen Scallops,8.915,1.778,2.925
+Frozen Scallops,8.915,2.624,2.42
+Frozen Scallops,8.915,2.951,2.429
+Frozen Scallops,8.915,1.198,3.092
+Frozen Scallops,8.915,1.621,2.745
+Frozen Strawberries,12.793,3.157,4.066
+Frozen Strawberries,12.793,3.141,3.462
+Frozen Strawberries,12.793,2.059,4.185
+Frozen Strawberries,12.793,3.201,4.145
+Frozen Strawberries,12.793,2.891,3.839
+Frozen Yogurt,14.391,2.108,4.653
+Frozen Yogurt,14.391,1.401,4.743
+Frozen Yogurt,14.391,1.076,5.239
+Frozen Yogurt,14.391,3.195,3.836
+Frozen Yogurt,14.391,2.004,4.47
+Fusilli,9.842,2.935,2.685
+Fusilli,9.842,3.456,2.758
+Fusilli,9.842,2.592,3.109
+Fusilli,9.842,1.989,3.073
+Fusilli,9.842,2.177,3.059
+Gala Apples,10.431,1.94,2.984
+Gala Apples,10.431,1.784,3.41
+Gala Apples,10.431,3.34,2.618
+Gala Apples,10.431,3.78,2.519
+Gala Apples,10.431,2.928,3.21
+Garlic Bread,9.18,2.701,2.749
+Garlic Bread,9.18,3.756,2.183
+Garlic Bread,9.18,2.176,2.692
+Garlic Bread,9.18,2.815,2.324
+Garlic Bread,9.18,3.517,2.234
+Garlic Bulb,13.409,3.001,3.772
+Garlic Bulb,13.409,2.463,4.66
+Garlic Bulb,13.409,3.606,3.786
+Garlic Bulb,13.409,1.613,4.67
+Garlic Bulb,13.409,3.164,4.364
+Garlic Hummus,12.147,2.388,3.906
+Garlic Hummus,12.147,2.042,4.22
+Garlic Hummus,12.147,2.34,3.308
+Garlic Hummus,12.147,2.444,3.427
+Garlic Hummus,12.147,1.642,4.416
+Garlic Parmesan Chicken Wings,11.081,2.818,3.503
+Garlic Parmesan Chicken Wings,11.081,2.334,2.949
+Garlic Parmesan Chicken Wings,11.081,2.027,3.49
+Garlic Parmesan Chicken Wings,11.081,1.618,3.764
+Garlic Parmesan Chicken Wings,11.081,1.486,4.062
+Garlic Powder,11.781,3.105,3.38
+Garlic Powder,11.781,2.135,3.401
+Garlic Powder,11.781,2.357,3.764
+Garlic Powder,11.781,3.346,3.249
+Garlic Powder,11.781,3.789,2.945
+Garlic and Herb Cheese Spread,14.51,1.67,4.471
+Garlic and Herb Cheese Spread,14.51,2.192,4.817
+Garlic and Herb Cheese Spread,14.51,3.827,4.605
+Garlic and Herb Cheese Spread,14.51,3.281,4.345
+Garlic and Herb Cheese Spread,14.51,2.227,4.74
+Gold Kiwis,14.548,3.065,4.935
+Gold Kiwis,14.548,2.891,4.512
+Gold Kiwis,14.548,3.523,3.844
+Gold Kiwis,14.548,3.913,4.132
+Gold Kiwis,14.548,2.493,5.165
+Grade A Maple Syrup,8.184,2.814,2.032
+Grade A Maple Syrup,8.184,2.634,2.323
+Grade A Maple Syrup,8.184,2.63,1.965
+Grade A Maple Syrup,8.184,1.368,2.864
+Grade A Maple Syrup,8.184,3.762,1.675
+Grade B Maple Syrup,8.387,2.488,2.417
+Grade B Maple Syrup,8.387,3.655,1.726
+Grade B Maple Syrup,8.387,1.166,3.125
+Grade B Maple Syrup,8.387,3.606,1.604
+Grade B Maple Syrup,8.387,2.222,2.592
+Granny Smith Apples,8.456,1.792,2.813
+Granny Smith Apples,8.456,2.322,2.402
+Granny Smith Apples,8.456,1.738,2.472
+Granny Smith Apples,8.456,1.967,2.269
+Granny Smith Apples,8.456,3.56,1.98
+Grape Jelly,14.823,1.448,5.704
+Grape Jelly,14.823,1.234,5.264
+Grape Jelly,14.823,2.333,4.799
+Grape Jelly,14.823,1.744,4.996
+Grape Jelly,14.823,1.066,5.411
+Grass-Fed Butter,10.226,2.993,2.938
+Grass-Fed Butter,10.226,3.219,2.578
+Grass-Fed Butter,10.226,2.581,3.199
+Grass-Fed Butter,10.226,1.51,3.577
+Grass-Fed Butter,10.226,1.885,3.304
+Greek Yogurt,10.985,1.137,3.604
+Greek Yogurt,10.985,1.205,3.614
+Greek Yogurt,10.985,2.297,3.006
+Greek Yogurt,10.985,3.728,2.784
+Greek Yogurt,10.985,2.38,2.887
+Green Bean Casserole,8.725,3.892,1.925
+Green Bean Casserole,8.725,1.379,2.917
+Green Bean Casserole,8.725,2.224,2.714
+Green Bean Casserole,8.725,1.808,2.705
+Green Bean Casserole,8.725,1.234,2.805
+Green Beans,11.255,3.215,3.39
+Green Beans,11.255,2.254,3.751
+Green Beans,11.255,2.356,3.831
+Green Beans,11.255,3.386,2.835
+Green Beans,11.255,1.457,3.39
+Green Bell Peppers,12.069,3.769,2.84
+Green Bell Peppers,12.069,1.013,4.448
+Green Bell Peppers,12.069,2.556,3.961
+Green Bell Peppers,12.069,1.687,4.035
+Green Bell Peppers,12.069,2.355,4.023
+Green Kiwis,14.026,3.501,4.546
+Green Kiwis,14.026,3.076,4.636
+Green Kiwis,14.026,3.465,3.826
+Green Kiwis,14.026,1.932,4.296
+Green Kiwis,14.026,1.166,5.538
+Green Lentils,8.103,1.747,2.175
+Green Lentils,8.103,3.389,1.741
+Green Lentils,8.103,3.762,1.849
+Green Lentils,8.103,3.113,1.764
+Green Lentils,8.103,2.437,2.068
+Green Olives,9.434,3.415,2.058
+Green Olives,9.434,3.306,2.084
+Green Olives,9.434,2.208,2.927
+Green Olives,9.434,2.89,2.31
+Green Olives,9.434,2.579,2.489
+Green Peas,8.04,3.059,2.152
+Green Peas,8.04,1.333,2.398
+Green Peas,8.04,3.777,1.549
+Green Peas,8.04,3.621,1.5
+Green Peas,8.04,3.139,1.885
+Green Seedless Grapes,11.496,2.277,3.116
+Green Seedless Grapes,11.496,1.694,4.092
+Green Seedless Grapes,11.496,2.987,3.447
+Green Seedless Grapes,11.496,1.48,3.838
+Green Seedless Grapes,11.496,2.014,3.514
+Grilled Pork Chops,11.462,1.694,4.185
+Grilled Pork Chops,11.462,3.087,2.873
+Grilled Pork Chops,11.462,1.913,3.964
+Grilled Pork Chops,11.462,2.31,3.072
+Grilled Pork Chops,11.462,3.591,2.975
+Grilled Salmon,11.023,1.956,3.173
+Grilled Salmon,11.023,3.185,2.668
+Grilled Salmon,11.023,2.511,3.481
+Grilled Salmon,11.023,2.62,2.938
+Grilled Salmon,11.023,2.906,3.101
+Guacamole,12.984,2.136,4.471
+Guacamole,12.984,3.965,3.134
+Guacamole,12.984,1.868,4.162
+Guacamole,12.984,1.743,4.186
+Guacamole,12.984,1.107,4.772
+Guacamole Dip,10.407,3.333,2.869
+Guacamole Dip,10.407,1.242,3.219
+Guacamole Dip,10.407,1.947,3.625
+Guacamole Dip,10.407,2.909,2.744
+Guacamole Dip,10.407,3.017,2.916
+Habanero Hot Sauce,14.464,1.261,4.959
+Habanero Hot Sauce,14.464,1.762,4.418
+Habanero Hot Sauce,14.464,2.72,4.125
+Habanero Hot Sauce,14.464,3.044,3.819
+Habanero Hot Sauce,14.464,3.238,4.262
+Ham Sandwiches,11.103,1.015,4.325
+Ham Sandwiches,11.103,1.333,3.519
+Ham Sandwiches,11.103,1.223,4.016
+Ham Sandwiches,11.103,1.4,3.78
+Ham Sandwiches,11.103,1.98,3.764
+Ham Steaks,9.395,3.595,2.082
+Ham Steaks,9.395,2.289,2.546
+Ham Steaks,9.395,1.611,3.311
+Ham Steaks,9.395,3.579,2.061
+Ham Steaks,9.395,3.07,2.14
+Ham and Cheese Sandwiches,12.428,1.727,3.644
+Ham and Cheese Sandwiches,12.428,3.646,3.099
+Ham and Cheese Sandwiches,12.428,3.945,3.236
+Ham and Cheese Sandwiches,12.428,2.249,3.67
+Ham and Cheese Sandwiches,12.428,1.478,3.792
+Hass Avocados,12.203,2.734,4.016
+Hass Avocados,12.203,1.66,4.156
+Hass Avocados,12.203,3.442,3.313
+Hass Avocados,12.203,3.705,2.833
+Hass Avocados,12.203,3.201,3.828
+Hazelnut Butter Brownies,14.074,1.724,4.817
+Hazelnut Butter Brownies,14.074,1.53,4.859
+Hazelnut Butter Brownies,14.074,3.011,4.119
+Hazelnut Butter Brownies,14.074,3.064,4.103
+Hazelnut Butter Brownies,14.074,3.182,4.678
+Heirloom Tomatoes,13.898,1.257,4.708
+Heirloom Tomatoes,13.898,1.419,4.187
+Heirloom Tomatoes,13.898,1.525,4.642
+Heirloom Tomatoes,13.898,1.571,4.831
+Heirloom Tomatoes,13.898,3.406,3.946
+Honey Barbecue Sauce,14.664,3.159,4.79
+Honey Barbecue Sauce,14.664,1.195,5.462
+Honey Barbecue Sauce,14.664,3.815,4.666
+Honey Barbecue Sauce,14.664,2.888,4.706
+Honey Barbecue Sauce,14.664,1.097,4.752
+Honey Glazed Ham,14.288,2.25,4.912
+Honey Glazed Ham,14.288,3.274,3.769
+Honey Glazed Ham,14.288,2.72,4.567
+Honey Glazed Ham,14.288,1.15,5.515
+Honey Glazed Ham,14.288,2.582,4.94
+Honey Mustard,13.477,3.203,3.974
+Honey Mustard,13.477,1.029,4.594
+Honey Mustard,13.477,3.875,4.033
+Honey Mustard,13.477,1.822,4.231
+Honey Mustard,13.477,3.52,3.545
+Honey Sticks,11.529,1.989,3.704
+Honey Sticks,11.529,2.651,3.832
+Honey Sticks,11.529,2.146,3.181
+Honey Sticks,11.529,2.027,3.676
+Honey Sticks,11.529,3.585,2.968
+Honeycrisp Apples,9.531,1.145,3.632
+Honeycrisp Apples,9.531,2.13,2.574
+Honeycrisp Apples,9.531,1.271,3.318
+Honeycrisp Apples,9.531,3.283,2.624
+Honeycrisp Apples,9.531,2.384,3.071
+Hot Dog Buns,12.919,1.01,4.976
+Hot Dog Buns,12.919,1.26,4.71
+Hot Dog Buns,12.919,3.379,3.396
+Hot Dog Buns,12.919,1.78,3.88
+Hot Dog Buns,12.919,3.839,3.08
+Hot Salsa,11.673,1.319,3.713
+Hot Salsa,11.673,1.79,4.279
+Hot Salsa,11.673,3.736,2.863
+Hot Salsa,11.673,1.886,3.829
+Hot Salsa,11.673,2.166,3.55
+Hummus,14.235,2.155,4.451
+Hummus,14.235,3.616,4.385
+Hummus,14.235,3.243,4.479
+Hummus,14.235,3.846,4.37
+Hummus,14.235,1.504,5.189
+Hummus and Pita Chips,11.122,3.945,2.461
+Hummus and Pita Chips,11.122,1.411,4.046
+Hummus and Pita Chips,11.122,2.618,3.589
+Hummus and Pita Chips,11.122,1.108,3.367
+Hummus and Pita Chips,11.122,1.56,3.239
+Iceberg Lettuce,13.536,2.999,3.8
+Iceberg Lettuce,13.536,2.409,4.084
+Iceberg Lettuce,13.536,3.835,3.38
+Iceberg Lettuce,13.536,2.266,4.165
+Iceberg Lettuce,13.536,1.977,4.722
+Italian Dressing,10.266,1.584,3.036
+Italian Dressing,10.266,3.214,2.952
+Italian Dressing,10.266,3.429,2.403
+Italian Dressing,10.266,3.738,2.626
+Italian Dressing,10.266,2.755,3.066
+Italian Sausages,10.297,2.31,2.766
+Italian Sausages,10.297,1.447,3.749
+Italian Sausages,10.297,3.405,2.668
+Italian Sausages,10.297,1.291,3.193
+Italian Sausages,10.297,2.5,2.89
+Jalape? Cheese Balls,8.661,3.669,1.825
+Jalape? Cheese Balls,8.661,1.382,2.654
+Jalape? Cheese Balls,8.661,2.362,2.3
+Jalape? Cheese Balls,8.661,2.038,2.267
+Jalape? Cheese Balls,8.661,3.076,2.118
+Jalape? Cheese Spread,12.035,1.38,3.689
+Jalape? Cheese Spread,12.035,3.123,3.036
+Jalape? Cheese Spread,12.035,3.775,2.764
+Jalape? Cheese Spread,12.035,2.749,3.618
+Jalape? Cheese Spread,12.035,3.726,2.866
+Jalape? Hot Sauce,12.439,1.949,3.92
+Jalape? Hot Sauce,12.439,1.249,3.831
+Jalape? Hot Sauce,12.439,2.088,3.778
+Jalape? Hot Sauce,12.439,2.602,3.525
+Jalape? Hot Sauce,12.439,2.497,3.625
+Jelly Doughnuts,8.926,3.288,2.31
+Jelly Doughnuts,8.926,1.545,3.087
+Jelly Doughnuts,8.926,3.553,1.853
+Jelly Doughnuts,8.926,1.061,2.829
+Jelly Doughnuts,8.926,1.204,2.579
+Kalamata Olives,10.339,1.006,3.22
+Kalamata Olives,10.339,3.805,2.575
+Kalamata Olives,10.339,3.618,2.509
+Kalamata Olives,10.339,3.149,2.555
+Kalamata Olives,10.339,1.088,3.969
+Ketchup Packets,13.217,1.844,4.455
+Ketchup Packets,13.217,3.223,3.687
+Ketchup Packets,13.217,3.509,3.628
+Ketchup Packets,13.217,2.787,3.791
+Ketchup Packets,13.217,2.593,4.014
+Kidney Bean Chili,13.59,3.826,3.288
+Kidney Bean Chili,13.59,2.084,3.895
+Kidney Bean Chili,13.59,2.865,3.776
+Kidney Bean Chili,13.59,3.898,3.743
+Kidney Bean Chili,13.59,2.354,4.667
+Kidney Bean Dip,12.38,2.442,4.103
+Kidney Bean Dip,12.38,2.499,4.164
+Kidney Bean Dip,12.38,3.511,3.828
+Kidney Bean Dip,12.38,2.007,4.123
+Kidney Bean Dip,12.38,3.849,3.291
+Kidney Bean Salad,12.285,2.404,4.207
+Kidney Bean Salad,12.285,1.163,4.048
+Kidney Bean Salad,12.285,2.709,3.339
+Kidney Bean Salad,12.285,1.894,3.724
+Kidney Bean Salad,12.285,1.084,4.039
+King Crab Legs,12.961,3.153,4.086
+King Crab Legs,12.961,1.553,4.878
+King Crab Legs,12.961,1.557,4.914
+King Crab Legs,12.961,3.612,3.397
+King Crab Legs,12.961,2.179,4.193
+Kiwi Jam,13.892,3.683,3.478
+Kiwi Jam,13.892,1.539,5.241
+Kiwi Jam,13.892,2.672,4.646
+Kiwi Jam,13.892,1.528,4.952
+Kiwi Jam,13.892,2.874,4.675
+Kiwi Sorbet,11.416,2.091,3.697
+Kiwi Sorbet,11.416,2.247,3.611
+Kiwi Sorbet,11.416,3.014,3.151
+Kiwi Sorbet,11.416,2.845,3.075
+Kiwi Sorbet,11.416,1.446,3.78
+Lamb Curry,13.645,2.775,4.506
+Lamb Curry,13.645,1.164,4.249
+Lamb Curry,13.645,3.907,3.364
+Lamb Curry,13.645,3.234,4.018
+Lamb Curry,13.645,3.542,4.089
+Large Avocados,13.659,1.341,4.475
+Large Avocados,13.659,1.134,4.844
+Large Avocados,13.659,1.727,4.01
+Large Avocados,13.659,2.898,4.304
+Large Avocados,13.659,2.837,4.166
+Large Brown Eggs,13.969,1.52,4.316
+Large Brown Eggs,13.969,2.962,4.126
+Large Brown Eggs,13.969,1.06,5.397
+Large Brown Eggs,13.969,2.23,5.049
+Large Brown Eggs,13.969,1.496,5.033
+Large Shrimp,13.784,2.726,3.973
+Large Shrimp,13.784,2.712,4.431
+Large Shrimp,13.784,1.319,4.486
+Large Shrimp,13.784,3.152,4.383
+Large Shrimp,13.784,1.262,4.815
+Lasagna,10.891,3.696,2.93
+Lasagna,10.891,1.849,3.257
+Lasagna,10.891,2.35,2.909
+Lasagna,10.891,2.427,3.275
+Lasagna,10.891,3.295,2.754
+Lentil Soup,13.044,3.297,3.312
+Lentil Soup,13.044,1.235,4.913
+Lentil Soup,13.044,3.783,3.103
+Lentil Soup,13.044,1.406,4.321
+Lentil Soup,13.044,1.506,3.925
+Light Cream Cheese,8.617,1.203,2.617
+Light Cream Cheese,8.617,1.421,2.693
+Light Cream Cheese,8.617,3.509,1.952
+Light Cream Cheese,8.617,3.319,1.809
+Light Cream Cheese,8.617,3.007,2.16
+Light Margarine,12.862,2.137,4.525
+Light Margarine,12.862,2.447,4.324
+Light Margarine,12.862,2.548,4.405
+Light Margarine,12.862,2.451,4.234
+Light Margarine,12.862,1.335,4.372
+Light Mayonnaise,9.398,1.347,2.754
+Light Mayonnaise,9.398,2.694,2.512
+Light Mayonnaise,9.398,3.568,2.402
+Light Mayonnaise,9.398,1.694,2.625
+Light Mayonnaise,9.398,1.464,2.814
+Light Sour Cream,10.29,2.352,2.998
+Light Sour Cream,10.29,3.368,2.533
+Light Sour Cream,10.29,3.459,2.716
+Light Sour Cream,10.29,1.366,3.105
+Light Sour Cream,10.29,2.137,3.113
+Linguine,12.629,3.352,3.502
+Linguine,12.629,3.006,4.05
+Linguine,12.629,1.225,4.508
+Linguine,12.629,2.935,3.249
+Linguine,12.629,2.407,3.565
+Lobster Bisque,9.481,3.086,2.148
+Lobster Bisque,9.481,1.721,3.126
+Lobster Bisque,9.481,3.945,1.933
+Lobster Bisque,9.481,3.651,2.24
+Lobster Bisque,9.481,3.758,2.137
+Lobster Mac and Cheese,13.396,1.415,4.613
+Lobster Mac and Cheese,13.396,2.458,3.962
+Lobster Mac and Cheese,13.396,3.188,3.763
+Lobster Mac and Cheese,13.396,3.399,3.338
+Lobster Mac and Cheese,13.396,1.372,4.389
+Lobster Roll,11.105,1.012,3.736
+Lobster Roll,11.105,1.789,3.325
+Lobster Roll,11.105,1.888,3.795
+Lobster Roll,11.105,3.907,3.085
+Lobster Roll,11.105,1.943,3.2
+Lobster Tails,14.5,3.441,4.084
+Lobster Tails,14.5,1.659,4.512
+Lobster Tails,14.5,1.641,4.849
+Lobster Tails,14.5,1.632,5.334
+Lobster Tails,14.5,1.856,4.938
+Louisiana Hot Sauce,9.402,3.449,2.31
+Louisiana Hot Sauce,9.402,1.447,2.727
+Louisiana Hot Sauce,9.402,3.795,1.991
+Louisiana Hot Sauce,9.402,3.922,2.282
+Louisiana Hot Sauce,9.402,1.622,2.756
+Low-Fat Cottage Cheese,14.119,2.868,4.304
+Low-Fat Cottage Cheese,14.119,3.518,4.058
+Low-Fat Cottage Cheese,14.119,2.108,4.218
+Low-Fat Cottage Cheese,14.119,2.522,3.901
+Low-Fat Cottage Cheese,14.119,2.919,4.371
+Low-Sodium Ketchup,9.001,2.654,2.527
+Low-Sodium Ketchup,9.001,2.299,2.595
+Low-Sodium Ketchup,9.001,3.72,1.923
+Low-Sodium Ketchup,9.001,3.798,1.864
+Low-Sodium Ketchup,9.001,3.562,2.098
+Mandarin Oranges,12.492,1.935,4.04
+Mandarin Oranges,12.492,1.625,4.19
+Mandarin Oranges,12.492,3.43,3.612
+Mandarin Oranges,12.492,3.972,2.87
+Mandarin Oranges,12.492,1.929,4.343
+Mango Sorbet,10.295,2.52,3.141
+Mango Sorbet,10.295,1.96,2.99
+Mango Sorbet,10.295,1.693,2.957
+Mango Sorbet,10.295,3.249,2.452
+Mango Sorbet,10.295,3.696,2.437
+Manuka Honey,12.808,2.882,3.319
+Manuka Honey,12.808,3.092,3.467
+Manuka Honey,12.808,1.314,3.989
+Manuka Honey,12.808,1.044,4.656
+Manuka Honey,12.808,3.578,3.398
+Maple Bacon,8.547,3.897,1.954
+Maple Bacon,8.547,1.444,2.394
+Maple Bacon,8.547,2.614,2.151
+Maple Bacon,8.547,2.416,2.139
+Maple Bacon,8.547,2.489,2.453
+Maple Syrup Candies,13.892,1.528,4.418
+Maple Syrup Candies,13.892,1.769,4.784
+Maple Syrup Candies,13.892,1.493,4.78
+Maple Syrup Candies,13.892,1.185,4.287
+Maple Syrup Candies,13.892,1.588,5.143
+Margarine Tubs,13.536,3.89,3.478
+Margarine Tubs,13.536,3.758,3.736
+Margarine Tubs,13.536,2.525,3.893
+Margarine Tubs,13.536,3.263,4.329
+Margarine Tubs,13.536,3.766,3.931
+Margherita Pizza,12.835,2.319,3.618
+Margherita Pizza,12.835,2.69,3.82
+Margherita Pizza,12.835,1.518,3.782
+Margherita Pizza,12.835,1.495,4.05
+Margherita Pizza,12.835,1.087,4.81
+Marinated Chicken Breast,9.951,1.453,2.998
+Marinated Chicken Breast,9.951,3.671,2.441
+Marinated Chicken Breast,9.951,2.46,3.24
+Marinated Chicken Breast,9.951,1.395,3.352
+Marinated Chicken Breast,9.951,3.035,2.984
+Marmalade,14.638,3.287,4.664
+Marmalade,14.638,1.068,4.527
+Marmalade,14.638,1.749,5.289
+Marmalade,14.638,2.357,4.494
+Marmalade,14.638,2.217,4.929
+Mashed Potatoes,11.326,2.133,3.258
+Mashed Potatoes,11.326,2.943,2.879
+Mashed Potatoes,11.326,1.471,3.825
+Mashed Potatoes,11.326,1.964,3.813
+Mashed Potatoes,11.326,2.105,3.763
+Mayonnaise Dressing,8.681,3.987,1.836
+Mayonnaise Dressing,8.681,3.821,1.888
+Mayonnaise Dressing,8.681,2.415,2.551
+Mayonnaise Dressing,8.681,1.714,2.669
+Mayonnaise Dressing,8.681,3.983,1.633
+Medium Brown Eggs,14.92,1.751,4.504
+Medium Brown Eggs,14.92,1.533,5.072
+Medium Brown Eggs,14.92,1.64,4.939
+Medium Brown Eggs,14.92,3.912,3.823
+Medium Brown Eggs,14.92,2.419,4.598
+Medium Salsa,10.857,2.507,3.045
+Medium Salsa,10.857,1.231,3.684
+Medium Salsa,10.857,2.21,3.288
+Medium Salsa,10.857,3.745,2.872
+Medium Salsa,10.857,2.402,2.925
+Medium Shrimp,9.544,3.754,2.178
+Medium Shrimp,9.544,2.32,3.031
+Medium Shrimp,9.544,1.419,3.085
+Medium Shrimp,9.544,1.364,2.731
+Medium Shrimp,9.544,2.015,3.071
+Mild Salsa,8.628,2.56,2.275
+Mild Salsa,8.628,2.64,2.509
+Mild Salsa,8.628,2.447,2.091
+Mild Salsa,8.628,1.229,2.808
+Mild Salsa,8.628,3.112,2.3
+Minced Garlic,9.797,1.663,2.976
+Minced Garlic,9.797,3.476,2.588
+Minced Garlic,9.797,1.433,3.489
+Minced Garlic,9.797,1.811,2.966
+Minced Garlic,9.797,3.39,2.247
+Mini Avocados,12.708,3.615,3.846
+Mini Avocados,12.708,2.849,3.303
+Mini Avocados,12.708,1.113,4.587
+Mini Avocados,12.708,3.369,3.695
+Mini Avocados,12.708,3.034,3.897
+Mini Cucumbers,9.418,3.906,2.348
+Mini Cucumbers,9.418,1.528,2.924
+Mini Cucumbers,9.418,3.1,2.638
+Mini Cucumbers,9.418,1.598,3.0
+Mini Cucumbers,9.418,1.321,3.366
+Mini Watermelon,13.075,1.155,4.11
+Mini Watermelon,13.075,1.445,4.008
+Mini Watermelon,13.075,3.161,3.743
+Mini Watermelon,13.075,2.474,4.56
+Mini Watermelon,13.075,3.168,4.12
+Mixed Berry Jelly,10.407,3.677,2.467
+Mixed Berry Jelly,10.407,3.68,2.762
+Mixed Berry Jelly,10.407,2.782,2.796
+Mixed Berry Jelly,10.407,2.086,3.558
+Mixed Berry Jelly,10.407,1.311,3.776
+Multigrain Bread,14.485,2.998,4.368
+Multigrain Bread,14.485,3.396,4.796
+Multigrain Bread,14.485,1.576,5.043
+Multigrain Bread,14.485,1.796,5.396
+Multigrain Bread,14.485,3.101,4.551
+Mushroom Risotto,10.134,1.372,3.287
+Mushroom Risotto,10.134,1.251,3.652
+Mushroom Risotto,10.134,1.293,3.374
+Mushroom Risotto,10.134,1.499,3.335
+Mushroom Risotto,10.134,2.132,3.302
+Mustard Seeds,12.59,3.371,3.186
+Mustard Seeds,12.59,3.346,3.562
+Mustard Seeds,12.59,2.114,4.138
+Mustard Seeds,12.59,1.508,4.796
+Mustard Seeds,12.59,2.743,3.575
+Natural Peanut Butter,8.413,1.554,2.941
+Natural Peanut Butter,8.413,3.205,2.235
+Natural Peanut Butter,8.413,3.808,1.7
+Natural Peanut Butter,8.413,3.737,1.96
+Natural Peanut Butter,8.413,3.086,2.015
+Navel Oranges,11.82,1.594,3.841
+Navel Oranges,11.82,2.597,3.736
+Navel Oranges,11.82,3.746,3.432
+Navel Oranges,11.82,3.004,3.59
+Navel Oranges,11.82,1.673,3.817
+Nutella Biscuits,13.491,2.799,3.732
+Nutella Biscuits,13.491,3.227,4.239
+Nutella Biscuits,13.491,3.4,3.595
+Nutella Biscuits,13.491,1.41,5.184
+Nutella Biscuits,13.491,2.164,4.456
+Nutella Gelato,13.965,3.445,4.509
+Nutella Gelato,13.965,1.94,4.332
+Nutella Gelato,13.965,1.323,4.554
+Nutella Gelato,13.965,3.199,4.442
+Nutella Gelato,13.965,3.019,3.795
+Nutella Hazelnut Spread,11.563,3.886,2.973
+Nutella Hazelnut Spread,11.563,1.961,3.559
+Nutella Hazelnut Spread,11.563,2.14,3.998
+Nutella Hazelnut Spread,11.563,3.249,3.024
+Nutella Hazelnut Spread,11.563,2.882,3.731
+Nutella Stuffed Pancakes,14.715,3.94,4.574
+Nutella Stuffed Pancakes,14.715,1.805,4.679
+Nutella Stuffed Pancakes,14.715,1.897,5.146
+Nutella Stuffed Pancakes,14.715,2.135,5.199
+Nutella Stuffed Pancakes,14.715,2.957,4.914
+Nutella and Go Snack Packs,8.339,1.847,2.709
+Nutella and Go Snack Packs,8.339,2.767,1.876
+Nutella and Go Snack Packs,8.339,2.599,1.937
+Nutella and Go Snack Packs,8.339,2.356,2.156
+Nutella and Go Snack Packs,8.339,3.273,1.795
+Oat Milk,13.878,3.91,4.273
+Oat Milk,13.878,3.143,4.078
+Oat Milk,13.878,2.893,4.253
+Oat Milk,13.878,2.922,4.617
+Oat Milk,13.878,1.459,5.103
+Oatmeal Cookies,8.693,1.578,2.583
+Oatmeal Cookies,8.693,1.424,2.969
+Oatmeal Cookies,8.693,3.326,1.952
+Oatmeal Cookies,8.693,3.324,2.239
+Oatmeal Cookies,8.693,2.376,2.576
+Olive Oil Mayonnaise,12.83,2.857,3.665
+Olive Oil Mayonnaise,12.83,1.972,4.062
+Olive Oil Mayonnaise,12.83,1.951,4.394
+Olive Oil Mayonnaise,12.83,3.504,3.397
+Olive Oil Mayonnaise,12.83,3.183,4.109
+Olive Tapenade,13.403,3.645,4.174
+Olive Tapenade,13.403,3.369,3.823
+Olive Tapenade,13.403,1.269,5.025
+Olive Tapenade,13.403,2.173,4.13
+Olive Tapenade,13.403,2.715,3.793
+Orange Bell Peppers,12.864,2.498,3.955
+Orange Bell Peppers,12.864,1.941,4.32
+Orange Bell Peppers,12.864,2.338,4.132
+Orange Bell Peppers,12.864,2.149,3.816
+Orange Bell Peppers,12.864,2.657,4.314
+Orange Jelly,11.926,3.727,3.046
+Orange Jelly,11.926,2.734,3.569
+Orange Jelly,11.926,3.075,3.066
+Orange Jelly,11.926,3.121,3.019
+Orange Jelly,11.926,3.307,3.709
+Organic Avocados,10.721,3.532,2.782
+Organic Avocados,10.721,1.224,3.869
+Organic Avocados,10.721,2.385,3.357
+Organic Avocados,10.721,3.147,2.854
+Organic Avocados,10.721,1.383,3.333
+Organic Bananas,14.359,1.601,5.052
+Organic Bananas,14.359,1.877,4.875
+Organic Bananas,14.359,2.934,4.826
+Organic Bananas,14.359,3.26,3.853
+Organic Bananas,14.359,2.06,4.878
+Organic Blueberries,11.775,2.588,3.186
+Organic Blueberries,11.775,3.691,2.817
+Organic Blueberries,11.775,3.546,3.049
+Organic Blueberries,11.775,2.105,3.678
+Organic Blueberries,11.775,3.188,3.119
+Organic Cauliflower,12.647,3.536,3.096
+Organic Cauliflower,12.647,3.896,3.225
+Organic Cauliflower,12.647,1.101,3.916
+Organic Cauliflower,12.647,1.671,4.736
+Organic Cauliflower,12.647,1.125,3.93
+Organic Chicken Breast,14.783,1.749,5.512
+Organic Chicken Breast,14.783,2.24,5.285
+Organic Chicken Breast,14.783,2.423,4.999
+Organic Chicken Breast,14.783,2.355,4.308
+Organic Chicken Breast,14.783,2.016,4.78
+Organic Cottage Cheese,14.105,1.745,5.056
+Organic Cottage Cheese,14.105,2.244,4.947
+Organic Cottage Cheese,14.105,2.889,3.845
+Organic Cottage Cheese,14.105,3.908,3.685
+Organic Cottage Cheese,14.105,1.723,4.172
+Organic Eggs,12.08,3.627,2.863
+Organic Eggs,12.08,1.313,4.174
+Organic Eggs,12.08,3.691,3.333
+Organic Eggs,12.08,2.142,4.173
+Organic Eggs,12.08,1.768,4.206
+Organic Guacamole,10.496,1.752,3.024
+Organic Guacamole,10.496,3.958,2.199
+Organic Guacamole,10.496,3.528,2.853
+Organic Guacamole,10.496,3.772,2.34
+Organic Guacamole,10.496,2.058,2.914
+Organic Ketchup,13.099,2.251,4.34
+Organic Ketchup,13.099,2.35,4.072
+Organic Ketchup,13.099,3.531,4.091
+Organic Ketchup,13.099,1.12,4.206
+Organic Ketchup,13.099,2.949,3.426
+Organic Kiwis,13.393,2.04,4.463
+Organic Kiwis,13.393,3.489,3.473
+Organic Kiwis,13.393,1.435,4.819
+Organic Kiwis,13.393,1.761,4.218
+Organic Kiwis,13.393,2.64,4.083
+Organic Maple Syrup,10.285,1.837,3.483
+Organic Maple Syrup,10.285,2.327,3.403
+Organic Maple Syrup,10.285,2.767,2.849
+Organic Maple Syrup,10.285,1.728,3.705
+Organic Maple Syrup,10.285,2.215,3.426
+Organic Peaches,9.559,3.587,2.367
+Organic Peaches,9.559,3.247,2.202
+Organic Peaches,9.559,2.26,2.756
+Organic Peaches,9.559,1.359,3.237
+Organic Peaches,9.559,2.025,2.986
+Organic Peanut Butter,12.425,1.715,4.521
+Organic Peanut Butter,12.425,1.892,3.754
+Organic Peanut Butter,12.425,1.169,4.142
+Organic Peanut Butter,12.425,1.002,4.39
+Organic Peanut Butter,12.425,1.306,4.717
+Organic Sour Cream,14.863,1.729,5.458
+Organic Sour Cream,14.863,2.041,5.37
+Organic Sour Cream,14.863,3.328,4.119
+Organic Sour Cream,14.863,2.288,4.329
+Organic Sour Cream,14.863,2.743,5.109
+Organic Soy Sauce,14.24,3.394,4.491
+Organic Soy Sauce,14.24,1.021,5.257
+Organic Soy Sauce,14.24,3.771,4.347
+Organic Soy Sauce,14.24,1.247,5.438
+Organic Soy Sauce,14.24,2.094,4.706
+Organic Spinach,14.282,1.995,4.272
+Organic Spinach,14.282,3.621,3.78
+Organic Spinach,14.282,1.409,5.132
+Organic Spinach,14.282,1.432,4.643
+Organic Spinach,14.282,2.542,4.353
+Organic Strawberries,14.95,1.859,5.634
+Organic Strawberries,14.95,1.947,4.698
+Organic Strawberries,14.95,3.795,4.479
+Organic Strawberries,14.95,2.455,4.915
+Organic Strawberries,14.95,2.637,4.905
+Original Barbecue Sauce,10.66,1.633,3.301
+Original Barbecue Sauce,10.66,3.223,3.122
+Original Barbecue Sauce,10.66,1.112,3.416
+Original Barbecue Sauce,10.66,3.962,2.618
+Original Barbecue Sauce,10.66,1.05,4.015
+Original Hummus,14.788,2.733,5.211
+Original Hummus,14.788,1.531,4.605
+Original Hummus,14.788,1.162,4.67
+Original Hummus,14.788,1.814,4.624
+Original Hummus,14.788,3.541,4.717
+Parmesan Cheese Balls,9.96,3.201,2.766
+Parmesan Cheese Balls,9.96,1.157,3.561
+Parmesan Cheese Balls,9.96,2.639,2.585
+Parmesan Cheese Balls,9.96,3.185,2.457
+Parmesan Cheese Balls,9.96,2.351,3.056
+Pea Soup,11.951,3.572,3.509
+Pea Soup,11.951,3.613,3.241
+Pea Soup,11.951,1.263,4.552
+Pea Soup,11.951,2.619,3.939
+Pea Soup,11.951,1.043,4.255
+Peach Pie,8.567,3.563,1.77
+Peach Pie,8.567,1.215,2.769
+Peach Pie,8.567,2.103,2.319
+Peach Pie,8.567,2.084,2.803
+Peach Pie,8.567,3.26,1.777
+Peanut Butter Cookies,13.362,1.493,4.874
+Peanut Butter Cookies,13.362,1.86,4.968
+Peanut Butter Cookies,13.362,3.754,3.46
+Peanut Butter Cookies,13.362,3.634,3.356
+Peanut Butter Cookies,13.362,2.796,3.911
+Pear Juice,13.738,2.162,4.264
+Pear Juice,13.738,1.007,4.381
+Pear Juice,13.738,1.357,4.243
+Pear Juice,13.738,3.384,4.394
+Pear Juice,13.738,2.509,4.04
+Penne,12.615,1.72,4.454
+Penne,12.615,2.357,4.253
+Penne,12.615,3.466,3.628
+Penne,12.615,2.48,3.668
+Penne,12.615,3.944,3.019
+Pepper Jack Cheese Balls,11.828,1.129,4.369
+Pepper Jack Cheese Balls,11.828,1.58,3.591
+Pepper Jack Cheese Balls,11.828,1.683,4.323
+Pepper Jack Cheese Balls,11.828,2.586,3.087
+Pepper Jack Cheese Balls,11.828,2.561,3.731
+Pepper Jack Cheese Slices,9.317,2.038,2.606
+Pepper Jack Cheese Slices,9.317,3.682,2.083
+Pepper Jack Cheese Slices,9.317,3.957,2.003
+Pepper Jack Cheese Slices,9.317,3.288,2.245
+Pepper Jack Cheese Slices,9.317,1.705,2.951
+Pepperoni Pizza,9.953,2.445,2.636
+Pepperoni Pizza,9.953,1.478,2.86
+Pepperoni Pizza,9.953,2.841,2.835
+Pepperoni Pizza,9.953,2.958,2.788
+Pepperoni Pizza,9.953,2.481,2.83
+Pickle Spears,14.975,2.643,4.468
+Pickle Spears,14.975,1.978,5.501
+Pickle Spears,14.975,3.259,4.247
+Pickle Spears,14.975,1.431,5.788
+Pickle Spears,14.975,2.68,4.43
+Pickling Cucumbers,8.692,1.939,2.363
+Pickling Cucumbers,8.692,1.075,2.836
+Pickling Cucumbers,8.692,3.254,2.168
+Pickling Cucumbers,8.692,3.517,1.872
+Pickling Cucumbers,8.692,2.242,2.388
+Pimento Cheese Spread,11.685,2.304,3.886
+Pimento Cheese Spread,11.685,2.955,2.965
+Pimento Cheese Spread,11.685,2.962,3.491
+Pimento Cheese Spread,11.685,3.656,3.234
+Pimento Cheese Spread,11.685,2.905,3.096
+Pineapple Chunks,9.28,1.626,2.806
+Pineapple Chunks,9.28,1.147,2.726
+Pineapple Chunks,9.28,3.926,2.118
+Pineapple Chunks,9.28,1.64,3.302
+Pineapple Chunks,9.28,1.155,2.77
+Pineapple Juice,13.966,2.722,4.032
+Pineapple Juice,13.966,2.99,4.222
+Pineapple Juice,13.966,1.645,5.296
+Pineapple Juice,13.966,2.82,4.485
+Pineapple Juice,13.966,1.712,4.11
+Pineapple Salsa,14.896,1.004,4.704
+Pineapple Salsa,14.896,3.591,4.242
+Pineapple Salsa,14.896,1.527,5.654
+Pineapple Salsa,14.896,2.264,5.321
+Pineapple Salsa,14.896,1.424,5.743
+Pineapple Upside-Down Cake,8.978,2.092,2.786
+Pineapple Upside-Down Cake,8.978,2.078,2.947
+Pineapple Upside-Down Cake,8.978,2.116,2.434
+Pineapple Upside-Down Cake,8.978,2.784,2.39
+Pineapple Upside-Down Cake,8.978,2.844,2.268
+Pink Lady Apples,13.903,3.934,3.867
+Pink Lady Apples,13.903,1.268,4.692
+Pink Lady Apples,13.903,2.953,4.049
+Pink Lady Apples,13.903,1.188,4.476
+Pink Lady Apples,13.903,2.167,4.787
+Plain Bagels,8.529,2.975,1.91
+Plain Bagels,8.529,2.108,2.431
+Plain Bagels,8.529,2.072,2.36
+Plain Bagels,8.529,1.755,2.722
+Plain Bagels,8.529,3.937,1.703
+Plain Yogurt,12.405,1.883,3.75
+Plain Yogurt,12.405,1.058,4.262
+Plain Yogurt,12.405,3.233,3.748
+Plain Yogurt,12.405,2.174,3.802
+Plain Yogurt,12.405,3.179,3.835
+Plantains,14.532,2.188,4.945
+Plantains,14.532,3.529,4.669
+Plantains,14.532,1.893,4.536
+Plantains,14.532,3.961,3.757
+Plantains,14.532,1.935,4.919
+Pork Sausages,13.016,2.766,3.942
+Pork Sausages,13.016,3.324,3.935
+Pork Sausages,13.016,2.382,4.321
+Pork Sausages,13.016,2.293,3.808
+Pork Sausages,13.016,3.484,3.725
+Portobello Mushrooms,14.263,3.299,4.032
+Portobello Mushrooms,14.263,1.904,4.281
+Portobello Mushrooms,14.263,1.464,4.639
+Portobello Mushrooms,14.263,2.02,4.294
+Portobello Mushrooms,14.263,2.126,4.07
+Provolone Cheese Slices,8.318,3.292,1.815
+Provolone Cheese Slices,8.318,3.703,1.898
+Provolone Cheese Slices,8.318,2.29,2.511
+Provolone Cheese Slices,8.318,2.94,2.001
+Provolone Cheese Slices,8.318,3.019,2.074
+Quick Oats,12.516,2.764,3.432
+Quick Oats,12.516,3.757,2.947
+Quick Oats,12.516,2.284,3.499
+Quick Oats,12.516,2.3,4.058
+Quick Oats,12.516,2.654,4.073
+Quinoa Flour,12.848,2.271,3.851
+Quinoa Flour,12.848,3.769,3.482
+Quinoa Flour,12.848,1.203,4.487
+Quinoa Flour,12.848,1.995,4.65
+Quinoa Flour,12.848,2.601,3.58
+Quinoa Salad,14.369,1.891,4.191
+Quinoa Salad,14.369,2.862,4.587
+Quinoa Salad,14.369,1.813,4.287
+Quinoa Salad,14.369,1.275,4.452
+Quinoa Salad,14.369,2.407,3.991
+Rainbow Carrots,8.556,3.528,1.785
+Rainbow Carrots,8.556,2.469,2.504
+Rainbow Carrots,8.556,1.58,2.408
+Rainbow Carrots,8.556,1.466,2.817
+Rainbow Carrots,8.556,3.839,1.576
+Ranch Dressing,8.641,2.83,2.158
+Ranch Dressing,8.641,3.761,1.996
+Ranch Dressing,8.641,2.471,2.545
+Ranch Dressing,8.641,2.5,2.525
+Ranch Dressing,8.641,3.547,1.946
+Raspberry Jam,14.882,2.711,4.193
+Raspberry Jam,14.882,3.038,4.975
+Raspberry Jam,14.882,1.725,5.684
+Raspberry Jam,14.882,2.955,4.231
+Raspberry Jam,14.882,3.536,4.799
+Raw Almond Butter,12.795,3.072,4.037
+Raw Almond Butter,12.795,2.23,3.63
+Raw Almond Butter,12.795,1.112,4.362
+Raw Almond Butter,12.795,3.349,3.848
+Raw Almond Butter,12.795,3.989,2.954
+Raw Cashew Butter,13.596,3.129,4.316
+Raw Cashew Butter,13.596,1.533,4.222
+Raw Cashew Butter,13.596,2.946,4.285
+Raw Cashew Butter,13.596,3.159,4.146
+Raw Cashew Butter,13.596,2.559,4.136
+Raw Hazelnut Butter,14.31,2.414,4.495
+Raw Hazelnut Butter,14.31,2.028,5.121
+Raw Hazelnut Butter,14.31,3.296,4.11
+Raw Hazelnut Butter,14.31,2.21,4.899
+Raw Hazelnut Butter,14.31,3.059,4.403
+Raw Honey,9.442,3.002,2.66
+Raw Honey,9.442,3.717,2.015
+Raw Honey,9.442,3.785,2.044
+Raw Honey,9.442,3.183,2.391
+Raw Honey,9.442,2.334,2.94
+Raw Sunflower Seed Butter,12.256,2.274,3.409
+Raw Sunflower Seed Butter,12.256,3.987,3.563
+Raw Sunflower Seed Butter,12.256,3.637,3.571
+Raw Sunflower Seed Butter,12.256,1.786,3.847
+Raw Sunflower Seed Butter,12.256,2.461,3.296
+Red Bananas,9.215,1.11,3.455
+Red Bananas,9.215,1.092,3.338
+Red Bananas,9.215,3.679,2.312
+Red Bananas,9.215,1.092,2.766
+Red Bananas,9.215,2.034,2.817
+Red Bell Peppers,11.531,1.702,3.366
+Red Bell Peppers,11.531,2.924,2.971
+Red Bell Peppers,11.531,1.141,3.865
+Red Bell Peppers,11.531,1.978,3.911
+Red Bell Peppers,11.531,2.135,3.716
+Red Delicious Apples,11.521,1.09,4.264
+Red Delicious Apples,11.521,2.361,3.914
+Red Delicious Apples,11.521,1.504,4.333
+Red Delicious Apples,11.521,2.038,3.676
+Red Delicious Apples,11.521,1.841,3.46
+Red Lentils,8.711,1.186,2.861
+Red Lentils,8.711,1.328,2.743
+Red Lentils,8.711,3.966,1.828
+Red Lentils,8.711,3.511,1.877
+Red Lentils,8.711,2.569,2.415
+Red Onions,11.4,1.711,4.11
+Red Onions,11.4,1.124,3.6
+Red Onions,11.4,3.172,3.288
+Red Onions,11.4,1.673,3.728
+Red Onions,11.4,1.992,3.142
+Red Potatoes,8.893,1.294,2.621
+Red Potatoes,8.893,1.353,3.058
+Red Potatoes,8.893,1.74,2.756
+Red Potatoes,8.893,3.012,2.169
+Red Potatoes,8.893,1.941,2.323
+Red Quinoa,13.044,2.9,3.714
+Red Quinoa,13.044,2.225,4.47
+Red Quinoa,13.044,3.884,3.906
+Red Quinoa,13.044,3.577,3.434
+Red Quinoa,13.044,1.078,4.115
+Red Seeded Grapes,9.457,3.585,2.018
+Red Seeded Grapes,9.457,3.858,2.275
+Red Seeded Grapes,9.457,2.346,2.866
+Red Seeded Grapes,9.457,1.173,3.011
+Red Seeded Grapes,9.457,1.763,3.241
+Red Seedless Grapes,8.782,1.051,3.026
+Red Seedless Grapes,8.782,3.831,2.144
+Red Seedless Grapes,8.782,3.936,1.971
+Red Seedless Grapes,8.782,1.229,3.136
+Red Seedless Grapes,8.782,3.753,2.068
+Reduced Sodium Cottage Cheese,14.276,2.423,4.589
+Reduced Sodium Cottage Cheese,14.276,1.149,4.696
+Reduced Sodium Cottage Cheese,14.276,1.638,4.483
+Reduced Sodium Cottage Cheese,14.276,2.754,4.643
+Reduced Sodium Cottage Cheese,14.276,3.411,4.252
+Reduced-Sodium Soy Sauce,8.7,2.081,2.702
+Reduced-Sodium Soy Sauce,8.7,1.497,3.084
+Reduced-Sodium Soy Sauce,8.7,3.933,1.779
+Reduced-Sodium Soy Sauce,8.7,2.247,2.576
+Reduced-Sodium Soy Sauce,8.7,3.795,1.857
+Regular Bacon,14.713,2.567,4.923
+Regular Bacon,14.713,2.733,4.769
+Regular Bacon,14.713,2.174,5.188
+Regular Bacon,14.713,3.589,3.744
+Regular Bacon,14.713,2.533,5.24
+Regular Bananas,10.23,1.53,3.059
+Regular Bananas,10.23,1.956,3.525
+Regular Bananas,10.23,1.291,3.397
+Regular Bananas,10.23,2.882,2.839
+Regular Bananas,10.23,2.305,3.362
+Regular Cream Cheese,10.079,3.957,2.147
+Regular Cream Cheese,10.079,3.909,2.167
+Regular Cream Cheese,10.079,3.462,2.621
+Regular Cream Cheese,10.079,3.141,2.8
+Regular Cream Cheese,10.079,2.308,3.164
+Regular Cucumbers,13.583,3.958,3.224
+Regular Cucumbers,13.583,1.854,4.302
+Regular Cucumbers,13.583,1.846,4.033
+Regular Cucumbers,13.583,2.819,4.449
+Regular Cucumbers,13.583,1.288,4.599
+Regular Margarine,10.501,2.468,3.37
+Regular Margarine,10.501,3.622,2.908
+Regular Margarine,10.501,1.681,3.487
+Regular Margarine,10.501,3.301,2.731
+Regular Margarine,10.501,3.166,3.022
+Regular Mayonnaise,14.917,2.011,4.541
+Regular Mayonnaise,14.917,2.38,4.532
+Regular Mayonnaise,14.917,2.724,4.223
+Regular Mayonnaise,14.917,3.816,3.926
+Regular Mayonnaise,14.917,2.404,4.823
+Regular Sour Cream,8.977,3.579,1.978
+Regular Sour Cream,8.977,2.509,2.182
+Regular Sour Cream,8.977,3.98,2.025
+Regular Sour Cream,8.977,3.997,1.77
+Regular Sour Cream,8.977,2.177,2.358
+Regular Soy Sauce,11.397,3.466,3.144
+Regular Soy Sauce,11.397,1.245,3.862
+Regular Soy Sauce,11.397,2.519,2.993
+Regular Soy Sauce,11.397,1.751,4.078
+Regular Soy Sauce,11.397,3.214,2.837
+Ribeye Steak,9.895,3.668,2.354
+Ribeye Steak,9.895,2.767,3.034
+Ribeye Steak,9.895,1.534,3.454
+Ribeye Steak,9.895,1.387,2.898
+Ribeye Steak,9.895,3.468,2.355
+Rice Pilaf,12.895,2.361,4.191
+Rice Pilaf,12.895,3.63,3.105
+Rice Pilaf,12.895,3.089,3.765
+Rice Pilaf,12.895,2.963,4.212
+Rice Pilaf,12.895,3.936,3.232
+Rice Pudding,11.248,3.246,3.417
+Rice Pudding,11.248,2.395,3.426
+Rice Pudding,11.248,2.871,2.826
+Rice Pudding,11.248,3.048,3.365
+Rice Pudding,11.248,1.319,3.403
+Roasted Almond Butter,13.877,3.763,4.061
+Roasted Almond Butter,13.877,2.569,3.792
+Roasted Almond Butter,13.877,3.294,4.446
+Roasted Almond Butter,13.877,1.899,4.759
+Roasted Almond Butter,13.877,2.653,4.41
+Roasted Cashew Butter,14.565,2.697,5.003
+Roasted Cashew Butter,14.565,1.243,5.076
+Roasted Cashew Butter,14.565,2.858,4.747
+Roasted Cashew Butter,14.565,2.348,4.139
+Roasted Cashew Butter,14.565,3.807,4.448
+Roasted Garlic,13.525,3.547,3.566
+Roasted Garlic,13.525,1.626,4.866
+Roasted Garlic,13.525,3.974,3.212
+Roasted Garlic,13.525,2.502,4.084
+Roasted Garlic,13.525,1.228,4.459
+Roasted Hazelnut Butter,10.353,3.258,2.927
+Roasted Hazelnut Butter,10.353,2.336,2.791
+Roasted Hazelnut Butter,10.353,1.486,3.072
+Roasted Hazelnut Butter,10.353,3.505,2.825
+Roasted Hazelnut Butter,10.353,1.583,2.994
+Roasted Red Pepper Hummus,8.971,3.449,1.921
+Roasted Red Pepper Hummus,8.971,1.671,2.6
+Roasted Red Pepper Hummus,8.971,1.3,3.02
+Roasted Red Pepper Hummus,8.971,3.556,2.001
+Roasted Red Pepper Hummus,8.971,1.828,2.638
+Roasted Sunflower Seed Butter,13.605,3.221,3.906
+Roasted Sunflower Seed Butter,13.605,3.175,3.804
+Roasted Sunflower Seed Butter,13.605,2.281,4.244
+Roasted Sunflower Seed Butter,13.605,3.078,4.24
+Roasted Sunflower Seed Butter,13.605,3.309,3.851
+Rolled Oats,9.012,1.934,2.463
+Rolled Oats,9.012,1.28,2.98
+Rolled Oats,9.012,2.609,2.702
+Rolled Oats,9.012,1.073,2.967
+Rolled Oats,9.012,3.944,1.885
+Roma Tomatoes,11.978,1.525,4.478
+Roma Tomatoes,11.978,1.867,3.498
+Roma Tomatoes,11.978,3.072,3.305
+Roma Tomatoes,11.978,3.551,3.363
+Roma Tomatoes,11.978,3.199,3.767
+Romaine Lettuce,8.157,2.856,1.989
+Romaine Lettuce,8.157,1.811,2.446
+Romaine Lettuce,8.157,3.271,1.952
+Romaine Lettuce,8.157,2.569,2.138
+Romaine Lettuce,8.157,3.475,1.933
+Russet Potatoes,11.05,1.97,3.784
+Russet Potatoes,11.05,1.202,4.246
+Russet Potatoes,11.05,1.535,3.222
+Russet Potatoes,11.05,2.456,3.083
+Russet Potatoes,11.05,2.998,2.887
+Salmon Fillets,14.402,1.138,4.972
+Salmon Fillets,14.402,2.052,4.699
+Salmon Fillets,14.402,1.773,4.581
+Salmon Fillets,14.402,1.226,5.462
+Salmon Fillets,14.402,1.769,4.61
+Salmon Rolls,9.02,1.391,3.027
+Salmon Rolls,9.02,2.088,2.654
+Salmon Rolls,9.02,2.28,2.274
+Salmon Rolls,9.02,3.068,2.193
+Salmon Rolls,9.02,2.267,2.605
+Salted Butter,14.433,3.014,4.257
+Salted Butter,14.433,2.528,4.654
+Salted Butter,14.433,2.293,4.418
+Salted Butter,14.433,3.417,4.133
+Salted Butter,14.433,3.282,4.704
+Sashimi,8.663,1.23,2.619
+Sashimi,8.663,2.437,2.558
+Sashimi,8.663,1.257,2.672
+Sashimi,8.663,2.618,2.044
+Sashimi,8.663,1.196,2.549
+Sausage Rolls,10.345,1.63,3.245
+Sausage Rolls,10.345,1.571,3.418
+Sausage Rolls,10.345,1.962,2.943
+Sausage Rolls,10.345,1.86,3.267
+Sausage Rolls,10.345,3.911,2.522
+Saut?d Green Beans,11.515,1.873,3.579
+Saut?d Green Beans,11.515,1.727,3.371
+Saut?d Green Beans,11.515,2.432,3.304
+Saut?d Green Beans,11.515,3.21,3.253
+Saut?d Green Beans,11.515,1.695,3.413
+Scallop Risotto,14.22,1.115,4.688
+Scallop Risotto,14.22,1.359,5.196
+Scallop Risotto,14.22,2.126,4.235
+Scallop Risotto,14.22,3.527,4.09
+Scallop Risotto,14.22,1.042,4.901
+Sea Scallops,13.662,2.565,4.013
+Sea Scallops,13.662,3.976,3.786
+Sea Scallops,13.662,1.525,4.88
+Sea Scallops,13.662,1.771,5.072
+Sea Scallops,13.662,1.679,4.303
+Seared Scallops,14.491,1.604,5.227
+Seared Scallops,14.491,1.081,5.739
+Seared Scallops,14.491,2.758,5.046
+Seared Scallops,14.491,2.31,4.817
+Seared Scallops,14.491,3.034,4.465
+Seedless Watermelon,8.897,1.528,2.494
+Seedless Watermelon,8.897,2.379,2.69
+Seedless Watermelon,8.897,2.247,2.261
+Seedless Watermelon,8.897,2.006,2.963
+Seedless Watermelon,8.897,2.867,2.152
+Shallots,13.542,2.081,4.817
+Shallots,13.542,2.43,4.369
+Shallots,13.542,3.886,3.996
+Shallots,13.542,3.763,3.549
+Shallots,13.542,2.79,3.839
+Shiitake Mushrooms,9.402,3.113,2.47
+Shiitake Mushrooms,9.402,1.298,3.102
+Shiitake Mushrooms,9.402,2.071,2.983
+Shiitake Mushrooms,9.402,1.031,3.56
+Shiitake Mushrooms,9.402,1.701,3.283
+Shrimp Curry,13.151,3.786,3.858
+Shrimp Curry,13.151,3.818,3.903
+Shrimp Curry,13.151,1.264,4.865
+Shrimp Curry,13.151,2.813,3.669
+Shrimp Curry,13.151,2.532,3.643
+Shrimp Fried Rice,12.285,1.325,4.223
+Shrimp Fried Rice,12.285,1.711,3.725
+Shrimp Fried Rice,12.285,3.787,2.888
+Shrimp Fried Rice,12.285,2.409,4.157
+Shrimp Fried Rice,12.285,1.452,3.93
+Shrimp Scampi,12.895,2.078,3.785
+Shrimp Scampi,12.895,2.18,3.925
+Shrimp Scampi,12.895,2.521,3.867
+Shrimp Scampi,12.895,1.178,3.912
+Shrimp Scampi,12.895,1.826,3.848
+Shrimp Stir-fry,8.858,1.728,2.384
+Shrimp Stir-fry,8.858,2.68,2.17
+Shrimp Stir-fry,8.858,1.686,2.712
+Shrimp Stir-fry,8.858,2.986,2.168
+Shrimp Stir-fry,8.858,2.278,2.237
+Sirloin Steak,13.411,2.085,4.171
+Sirloin Steak,13.411,3.906,3.353
+Sirloin Steak,13.411,3.171,3.416
+Sirloin Steak,13.411,3.687,3.34
+Sirloin Steak,13.411,3.095,3.456
+Skim Milk,9.944,1.778,2.745
+Skim Milk,9.944,3.366,2.415
+Skim Milk,9.944,1.262,3.231
+Skim Milk,9.944,3.51,2.728
+Skim Milk,9.944,2.047,2.708
+Sliced Ham,10.403,3.422,2.513
+Sliced Ham,10.403,1.629,3.671
+Sliced Ham,10.403,2.253,3.531
+Sliced Ham,10.403,2.022,3.017
+Sliced Ham,10.403,2.449,2.936
+Small Shrimp,13.15,2.304,4.608
+Small Shrimp,13.15,3.897,3.209
+Small Shrimp,13.15,3.07,3.63
+Small Shrimp,13.15,3.687,3.607
+Small Shrimp,13.15,2.516,4.209
+Small White Eggs,11.48,1.153,3.564
+Small White Eggs,11.48,2.97,3.408
+Small White Eggs,11.48,3.965,3.122
+Small White Eggs,11.48,2.487,3.716
+Small White Eggs,11.48,2.076,3.613
+Smoked Gouda Cheese Spread,10.636,1.115,3.957
+Smoked Gouda Cheese Spread,10.636,2.286,3.191
+Smoked Gouda Cheese Spread,10.636,2.615,2.884
+Smoked Gouda Cheese Spread,10.636,2.397,3.108
+Smoked Gouda Cheese Spread,10.636,3.428,3.056
+Smoked Ham,9.329,1.773,3.198
+Smoked Ham,9.329,1.752,3.014
+Smoked Ham,9.329,3.202,2.202
+Smoked Ham,9.329,2.798,2.255
+Smoked Ham,9.329,1.053,3.538
+Smoked Salmon,13.719,1.768,4.288
+Smoked Salmon,13.719,2.809,3.864
+Smoked Salmon,13.719,1.564,4.132
+Smoked Salmon,13.719,1.56,4.153
+Smoked Salmon,13.719,3.717,3.933
+Smoky Barbecue Sauce,12.122,3.618,3.403
+Smoky Barbecue Sauce,12.122,3.898,3.327
+Smoky Barbecue Sauce,12.122,2.542,3.384
+Smoky Barbecue Sauce,12.122,2.741,3.549
+Smoky Barbecue Sauce,12.122,2.426,3.757
+Smooth Almond Butter,12.439,1.93,3.825
+Smooth Almond Butter,12.439,1.422,4.726
+Smooth Almond Butter,12.439,3.61,3.761
+Smooth Almond Butter,12.439,2.175,4.281
+Smooth Almond Butter,12.439,3.992,3.453
+Smooth Hazelnut Butter,9.812,2.127,2.726
+Smooth Hazelnut Butter,9.812,2.404,3.073
+Smooth Hazelnut Butter,9.812,3.072,2.859
+Smooth Hazelnut Butter,9.812,3.134,2.352
+Smooth Hazelnut Butter,9.812,3.983,2.17
+Smooth Sunflower Seed Butter,8.762,1.417,2.483
+Smooth Sunflower Seed Butter,8.762,2.853,2.479
+Smooth Sunflower Seed Butter,8.762,2.773,2.127
+Smooth Sunflower Seed Butter,8.762,3.429,1.818
+Smooth Sunflower Seed Butter,8.762,1.667,2.742
+Snow Crab Legs,8.505,2.427,2.107
+Snow Crab Legs,8.505,1.43,2.661
+Snow Crab Legs,8.505,2.346,2.565
+Snow Crab Legs,8.505,3.764,1.65
+Snow Crab Legs,8.505,1.572,2.692
+Soft Tacos,10.684,3.362,2.874
+Soft Tacos,10.684,3.107,2.816
+Soft Tacos,10.684,2.277,2.945
+Soft Tacos,10.684,3.189,3.223
+Soft Tacos,10.684,2.241,3.474
+Sour Cream and Onion Dip,12.484,3.173,3.222
+Sour Cream and Onion Dip,12.484,3.364,3.647
+Sour Cream and Onion Dip,12.484,3.653,2.972
+Sour Cream and Onion Dip,12.484,2.32,3.763
+Sour Cream and Onion Dip,12.484,3.178,3.32
+Sourdough Bread,13.404,2.229,3.869
+Sourdough Bread,13.404,1.68,5.068
+Sourdough Bread,13.404,3.339,4.187
+Sourdough Bread,13.404,2.741,4.21
+Sourdough Bread,13.404,3.998,3.46
+Soy Sauce,14.871,2.844,4.792
+Soy Sauce,14.871,1.964,5.274
+Soy Sauce,14.871,1.117,5.722
+Soy Sauce,14.871,1.73,4.957
+Soy Sauce,14.871,2.229,4.248
+Spaghetti,11.017,3.533,2.79
+Spaghetti,11.017,3.703,2.766
+Spaghetti,11.017,1.203,3.991
+Spaghetti,11.017,2.221,3.569
+Spaghetti,11.017,1.649,3.325
+Spicy Barbecue Sauce,10.416,2.631,3.188
+Spicy Barbecue Sauce,10.416,2.262,3.501
+Spicy Barbecue Sauce,10.416,3.492,2.599
+Spicy Barbecue Sauce,10.416,2.767,2.757
+Spicy Barbecue Sauce,10.416,2.104,2.979
+Spicy Guacamole,12.136,2.281,3.389
+Spicy Guacamole,12.136,2.935,3.719
+Spicy Guacamole,12.136,1.058,4.417
+Spicy Guacamole,12.136,1.86,3.448
+Spicy Guacamole,12.136,2.154,3.502
+Spicy Hummus,11.408,3.001,3.234
+Spicy Hummus,11.408,2.559,3.748
+Spicy Hummus,11.408,3.131,3.48
+Spicy Hummus,11.408,3.033,3.528
+Spicy Hummus,11.408,3.926,3.126
+Spicy Ketchup,10.356,1.351,3.182
+Spicy Ketchup,10.356,2.241,3.447
+Spicy Ketchup,10.356,2.547,2.948
+Spicy Ketchup,10.356,3.727,2.592
+Spicy Ketchup,10.356,2.2,3.11
+Spicy Mustard,14.882,3.314,4.336
+Spicy Mustard,14.882,3.111,4.318
+Spicy Mustard,14.882,3.652,4.536
+Spicy Mustard,14.882,2.984,4.055
+Spicy Mustard,14.882,1.43,4.909
+Spicy Pickles,9.542,1.935,2.657
+Spicy Pickles,9.542,1.404,3.493
+Spicy Pickles,9.542,2.096,3.062
+Spicy Pickles,9.542,1.493,3.243
+Spicy Pickles,9.542,1.681,3.398
+Spinach Dip,13.75,1.809,4.162
+Spinach Dip,13.75,3.732,4.289
+Spinach Dip,13.75,1.866,4.429
+Spinach Dip,13.75,1.437,4.18
+Spinach Dip,13.75,1.268,4.518
+Spinach Leaves,14.577,2.398,4.874
+Spinach Leaves,14.577,1.169,4.51
+Spinach Leaves,14.577,3.699,4.026
+Spinach Leaves,14.577,2.49,4.315
+Spinach Leaves,14.577,2.117,4.43
+Spinach Quiche,13.725,3.746,3.606
+Spinach Quiche,13.725,2.655,4.403
+Spinach Quiche,13.725,2.719,4.476
+Spinach Quiche,13.725,3.972,3.875
+Spinach Quiche,13.725,3.72,3.733
+Split Peas,9.187,1.439,2.648
+Split Peas,9.187,1.872,3.121
+Split Peas,9.187,3.174,2.487
+Split Peas,9.187,3.035,2.284
+Split Peas,9.187,2.443,2.446
+Spreadable Margarine,12.226,2.585,3.452
+Spreadable Margarine,12.226,2.115,3.762
+Spreadable Margarine,12.226,2.79,4.089
+Spreadable Margarine,12.226,2.997,3.477
+Spreadable Margarine,12.226,3.028,3.598
+Spring Mix Lettuce,11.985,2.997,3.295
+Spring Mix Lettuce,11.985,2.601,3.184
+Spring Mix Lettuce,11.985,1.349,4.589
+Spring Mix Lettuce,11.985,3.082,3.243
+Spring Mix Lettuce,11.985,2.552,3.813
+Sriracha Sauce,10.504,1.744,3.66
+Sriracha Sauce,10.504,1.925,2.988
+Sriracha Sauce,10.504,1.896,3.418
+Sriracha Sauce,10.504,2.921,3.1
+Sriracha Sauce,10.504,2.671,2.747
+Steak Sauce,12.57,3.97,3.233
+Steak Sauce,12.57,2.916,3.326
+Steak Sauce,12.57,2.616,4.148
+Steak Sauce,12.57,1.073,4.819
+Steak Sauce,12.57,1.653,4.405
+Steel-Cut Oats,14.156,3.319,4.374
+Steel-Cut Oats,14.156,2.054,4.378
+Steel-Cut Oats,14.156,2.062,4.528
+Steel-Cut Oats,14.156,3.205,4.639
+Steel-Cut Oats,14.156,2.415,4.73
+Stir-Fry Sauce,10.175,2.694,3.039
+Stir-Fry Sauce,10.175,3.695,2.34
+Stir-Fry Sauce,10.175,3.759,2.49
+Stir-Fry Sauce,10.175,1.511,3.217
+Stir-Fry Sauce,10.175,2.855,2.474
+Stir-fry Sauce,14.128,1.433,4.67
+Stir-fry Sauce,14.128,3.017,4.504
+Stir-fry Sauce,14.128,2.518,4.45
+Stir-fry Sauce,14.128,2.205,4.862
+Stir-fry Sauce,14.128,3.995,4.282
+Strawberries,14.351,2.066,4.883
+Strawberries,14.351,2.212,4.739
+Strawberries,14.351,3.719,3.676
+Strawberries,14.351,3.947,4.169
+Strawberries,14.351,2.496,4.601
+Strawberry Jam,8.431,3.77,1.842
+Strawberry Jam,8.431,1.927,2.595
+Strawberry Jam,8.431,2.273,2.486
+Strawberry Jam,8.431,3.119,1.949
+Strawberry Jam,8.431,3.341,2.195
+Striploin Steak,14.377,3.074,4.747
+Striploin Steak,14.377,1.997,4.716
+Striploin Steak,14.377,1.016,4.815
+Striploin Steak,14.377,2.464,5.152
+Striploin Steak,14.377,1.751,4.528
+Stuffed Bell Peppers,13.594,2.44,4.001
+Stuffed Bell Peppers,13.594,3.031,3.898
+Stuffed Bell Peppers,13.594,2.156,4.528
+Stuffed Bell Peppers,13.594,1.459,4.17
+Stuffed Bell Peppers,13.594,3.112,3.679
+Stuffed Olives,9.983,2.722,3.077
+Stuffed Olives,9.983,2.745,3.046
+Stuffed Olives,9.983,1.549,3.281
+Stuffed Olives,9.983,1.304,3.444
+Stuffed Olives,9.983,3.907,2.525
+Stuffed Peppers,12.379,3.939,3.09
+Stuffed Peppers,12.379,3.537,3.222
+Stuffed Peppers,12.379,2.019,4.39
+Stuffed Peppers,12.379,1.949,4.225
+Stuffed Peppers,12.379,3.837,2.901
+Stuffed Pork Chops,12.352,3.145,3.402
+Stuffed Pork Chops,12.352,1.613,3.894
+Stuffed Pork Chops,12.352,2.907,3.149
+Stuffed Pork Chops,12.352,1.197,4.577
+Stuffed Pork Chops,12.352,3.373,3.666
+Sub Sandwiches,14.318,3.244,4.234
+Sub Sandwiches,14.318,1.058,4.873
+Sub Sandwiches,14.318,3.119,4.641
+Sub Sandwiches,14.318,1.341,4.432
+Sub Sandwiches,14.318,2.367,4.987
+Sugar-Free Maple Syrup,12.73,2.575,4.078
+Sugar-Free Maple Syrup,12.73,1.151,4.354
+Sugar-Free Maple Syrup,12.73,3.292,3.89
+Sugar-Free Maple Syrup,12.73,2.436,3.968
+Sugar-Free Maple Syrup,12.73,2.154,3.755
+Sunflower Seed Butter Granola Bars,14.938,2.609,4.652
+Sunflower Seed Butter Granola Bars,14.938,2.896,5.213
+Sunflower Seed Butter Granola Bars,14.938,1.276,4.602
+Sunflower Seed Butter Granola Bars,14.938,3.225,4.659
+Sunflower Seed Butter Granola Bars,14.938,1.66,4.504
+Supreme Pizza,12.028,1.068,3.655
+Supreme Pizza,12.028,2.515,4.023
+Supreme Pizza,12.028,1.355,3.747
+Supreme Pizza,12.028,3.111,3.036
+Supreme Pizza,12.028,1.555,3.564
+Sweet Pickles,14.396,2.822,4.16
+Sweet Pickles,14.396,3.909,3.786
+Sweet Pickles,14.396,1.213,5.356
+Sweet Pickles,14.396,2.687,4.901
+Sweet Pickles,14.396,1.434,4.459
+Sweet Potatoes,9.222,2.143,2.51
+Sweet Potatoes,9.222,3.585,1.978
+Sweet Potatoes,9.222,2.174,2.935
+Sweet Potatoes,9.222,2.234,2.612
+Sweet Potatoes,9.222,3.648,2.146
+Sweet and Tangy Barbecue Sauce,13.306,1.177,4.331
+Sweet and Tangy Barbecue Sauce,13.306,3.521,4.082
+Sweet and Tangy Barbecue Sauce,13.306,2.895,4.324
+Sweet and Tangy Barbecue Sauce,13.306,2.095,3.747
+Sweet and Tangy Barbecue Sauce,13.306,1.708,4.76
+Swiss Cheese Slices,13.662,1.184,4.469
+Swiss Cheese Slices,13.662,1.629,4.42
+Swiss Cheese Slices,13.662,1.121,4.252
+Swiss Cheese Slices,13.662,3.508,3.783
+Swiss Cheese Slices,13.662,3.256,4.049
+Tabasco Sauce,14.253,3.169,3.696
+Tabasco Sauce,14.253,1.948,4.849
+Tabasco Sauce,14.253,1.269,5.217
+Tabasco Sauce,14.253,3.994,3.844
+Tabasco Sauce,14.253,2.436,4.929
+Taco Shells,8.005,3.717,1.578
+Taco Shells,8.005,2.762,2.014
+Taco Shells,8.005,2.849,2.062
+Taco Shells,8.005,3.453,1.702
+Taco Shells,8.005,1.143,2.554
+Tamari Soy Sauce,14.019,3.193,3.821
+Tamari Soy Sauce,14.019,2.989,4.309
+Tamari Soy Sauce,14.019,1.495,5.151
+Tamari Soy Sauce,14.019,2.034,4.967
+Tamari Soy Sauce,14.019,2.81,3.792
+Teriyaki Chicken Wings,12.743,2.749,4.207
+Teriyaki Chicken Wings,12.743,3.881,3.205
+Teriyaki Chicken Wings,12.743,2.99,3.378
+Teriyaki Chicken Wings,12.743,1.475,4.739
+Teriyaki Chicken Wings,12.743,2.633,4.216
+Thick-Cut Bacon,10.723,1.188,3.888
+Thick-Cut Bacon,10.723,1.647,3.393
+Thick-Cut Bacon,10.723,3.978,2.373
+Thick-Cut Bacon,10.723,3.373,2.724
+Thick-Cut Bacon,10.723,1.244,3.429
+Thick-Cut Pork Chops,11.135,2.916,3.06
+Thick-Cut Pork Chops,11.135,1.953,3.856
+Thick-Cut Pork Chops,11.135,1.399,3.326
+Thick-Cut Pork Chops,11.135,3.837,2.67
+Thick-Cut Pork Chops,11.135,1.604,3.854
+Thousand Island Dressing,13.271,3.105,4.263
+Thousand Island Dressing,13.271,2.261,4.364
+Thousand Island Dressing,13.271,2.973,4.197
+Thousand Island Dressing,13.271,1.935,4.198
+Thousand Island Dressing,13.271,3.572,3.856
+Tomatillo Salsa,12.024,1.893,4.238
+Tomatillo Salsa,12.024,3.708,3.063
+Tomatillo Salsa,12.024,3.615,3.31
+Tomatillo Salsa,12.024,2.292,3.411
+Tomatillo Salsa,12.024,1.927,3.653
+Tomato Ketchup,13.644,3.487,4.13
+Tomato Ketchup,13.644,3.373,3.745
+Tomato Ketchup,13.644,2.948,4.393
+Tomato Ketchup,13.644,1.455,5.249
+Tomato Ketchup,13.644,3.652,3.368
+Tomato Sauce,11.12,3.975,2.667
+Tomato Sauce,11.12,2.149,3.523
+Tomato Sauce,11.12,1.536,4.062
+Tomato Sauce,11.12,2.921,3.274
+Tomato Sauce,11.12,3.772,2.484
+Tommy Atkins Mangoes,13.627,1.844,4.544
+Tommy Atkins Mangoes,13.627,1.612,4.479
+Tommy Atkins Mangoes,13.627,3.512,4.354
+Tommy Atkins Mangoes,13.627,1.749,4.23
+Tommy Atkins Mangoes,13.627,1.548,4.348
+Tri-Color Quinoa,14.014,1.927,4.176
+Tri-Color Quinoa,14.014,1.729,4.851
+Tri-Color Quinoa,14.014,1.839,4.828
+Tri-Color Quinoa,14.014,3.783,3.502
+Tri-Color Quinoa,14.014,1.712,4.497
+Tuna Rolls,9.124,3.823,2.214
+Tuna Rolls,9.124,3.967,1.959
+Tuna Rolls,9.124,1.992,2.685
+Tuna Rolls,9.124,1.298,3.259
+Tuna Rolls,9.124,3.833,2.162
+Tuna Salad,13.573,2.961,3.962
+Tuna Salad,13.573,3.079,4.36
+Tuna Salad,13.573,3.978,3.708
+Tuna Salad,13.573,3.28,3.585
+Tuna Salad,13.573,2.608,4.237
+Tuna Steaks,11.168,2.483,3.373
+Tuna Steaks,11.168,3.067,3.173
+Tuna Steaks,11.168,2.335,3.114
+Tuna Steaks,11.168,1.139,3.763
+Tuna Steaks,11.168,1.756,4.022
+Turkey Bacon,13.18,2.0,3.938
+Turkey Bacon,13.18,3.055,3.483
+Turkey Bacon,13.18,1.768,4.046
+Turkey Bacon,13.18,1.552,4.502
+Turkey Bacon,13.18,2.09,3.759
+Turkey Burgers,12.378,3.21,3.412
+Turkey Burgers,12.378,3.521,3.805
+Turkey Burgers,12.378,2.529,4.106
+Turkey Burgers,12.378,2.641,3.517
+Turkey Burgers,12.378,2.529,3.638
+Turkey Hot Dogs,14.353,3.357,4.457
+Turkey Hot Dogs,14.353,1.026,5.582
+Turkey Hot Dogs,14.353,3.746,4.359
+Turkey Hot Dogs,14.353,3.05,4.099
+Turkey Hot Dogs,14.353,2.6,4.958
+Turkey Sandwiches,11.752,2.323,3.273
+Turkey Sandwiches,11.752,1.067,4.421
+Turkey Sandwiches,11.752,3.803,2.725
+Turkey Sandwiches,11.752,2.136,3.583
+Turkey Sandwiches,11.752,1.555,3.719
+Unsalted Butter,12.629,1.606,4.417
+Unsalted Butter,12.629,2.259,4.385
+Unsalted Butter,12.629,3.469,3.625
+Unsalted Butter,12.629,3.139,3.368
+Unsalted Butter,12.629,1.178,4.018
+Valencia Oranges,8.017,3.89,1.553
+Valencia Oranges,8.017,3.419,1.738
+Valencia Oranges,8.017,3.73,1.684
+Valencia Oranges,8.017,3.506,1.636
+Valencia Oranges,8.017,2.076,2.147
+Vegan Margarine,11.036,1.041,3.487
+Vegan Margarine,11.036,2.31,3.605
+Vegan Margarine,11.036,2.13,3.693
+Vegan Margarine,11.036,1.413,4.031
+Vegan Margarine,11.036,1.636,3.462
+Vegan Mayonnaise,8.726,3.282,1.976
+Vegan Mayonnaise,8.726,2.061,2.639
+Vegan Mayonnaise,8.726,1.948,2.772
+Vegan Mayonnaise,8.726,1.817,2.755
+Vegan Mayonnaise,8.726,2.602,2.197
+Vegetable Curry,13.89,2.51,4.653
+Vegetable Curry,13.89,1.355,4.826
+Vegetable Curry,13.89,1.071,4.761
+Vegetable Curry,13.89,2.561,4.905
+Vegetable Curry,13.89,1.484,4.804
+Vegetable Fried Rice,13.197,2.713,4.381
+Vegetable Fried Rice,13.197,2.684,4.036
+Vegetable Fried Rice,13.197,3.457,3.733
+Vegetable Fried Rice,13.197,2.194,3.906
+Vegetable Fried Rice,13.197,3.637,3.249
+Vegetable Rolls,13.782,1.706,4.573
+Vegetable Rolls,13.782,2.864,4.657
+Vegetable Rolls,13.782,3.041,3.678
+Vegetable Rolls,13.782,2.97,4.244
+Vegetable Rolls,13.782,2.174,4.49
+Vegetable Stir-fry,13.232,3.508,4.155
+Vegetable Stir-fry,13.232,2.574,4.287
+Vegetable Stir-fry,13.232,2.369,4.218
+Vegetable Stir-fry,13.232,2.934,4.278
+Vegetable Stir-fry,13.232,2.598,3.802
+Vegetarian Tacos,10.764,2.948,2.947
+Vegetarian Tacos,10.764,3.287,2.693
+Vegetarian Tacos,10.764,1.413,3.856
+Vegetarian Tacos,10.764,3.948,2.276
+Vegetarian Tacos,10.764,3.408,2.683
+Veggie Burgers,14.867,2.327,5.197
+Veggie Burgers,14.867,3.076,4.103
+Veggie Burgers,14.867,1.8,4.81
+Veggie Burgers,14.867,1.114,5.625
+Veggie Burgers,14.867,3.625,3.812
+Veggie Hot Dogs,9.48,3.376,2.085
+Veggie Hot Dogs,9.48,2.669,2.736
+Veggie Hot Dogs,9.48,3.576,2.493
+Veggie Hot Dogs,9.48,3.022,2.576
+Veggie Hot Dogs,9.48,3.379,2.638
+Veggie Sandwiches,12.544,3.86,3.569
+Veggie Sandwiches,12.544,2.321,3.514
+Veggie Sandwiches,12.544,2.338,4.033
+Veggie Sandwiches,12.544,3.89,3.707
+Veggie Sandwiches,12.544,2.413,3.464
+Watermelon Juice,11.797,3.842,2.758
+Watermelon Juice,11.797,3.908,2.724
+Watermelon Juice,11.797,2.213,3.719
+Watermelon Juice,11.797,1.139,3.9
+Watermelon Juice,11.797,3.36,3.154
+Watermelon Salad,9.188,2.306,2.604
+Watermelon Salad,9.188,3.639,2.292
+Watermelon Salad,9.188,1.717,2.75
+Watermelon Salad,9.188,1.884,2.968
+Watermelon Salad,9.188,2.136,2.427
+Watermelon Slices,11.756,1.664,4.366
+Watermelon Slices,11.756,1.444,4.071
+Watermelon Slices,11.756,3.614,3.197
+Watermelon Slices,11.756,3.055,3.131
+Watermelon Slices,11.756,3.421,2.911
+Whipped Cream Cheese,12.175,2.285,3.836
+Whipped Cream Cheese,12.175,3.579,3.487
+Whipped Cream Cheese,12.175,3.965,2.815
+Whipped Cream Cheese,12.175,2.759,3.668
+Whipped Cream Cheese,12.175,3.102,3.504
+White Basmati Rice,10.968,2.985,3.331
+White Basmati Rice,10.968,3.628,3.028
+White Basmati Rice,10.968,3.809,2.785
+White Basmati Rice,10.968,2.043,3.068
+White Basmati Rice,10.968,3.637,2.813
+White Bread,8.796,3.902,1.714
+White Bread,8.796,3.614,1.891
+White Bread,8.796,3.734,1.76
+White Bread,8.796,2.669,2.17
+White Bread,8.796,2.266,2.61
+White Button Mushrooms,13.297,2.2,3.761
+White Button Mushrooms,13.297,1.745,4.855
+White Button Mushrooms,13.297,2.392,3.723
+White Button Mushrooms,13.297,2.679,3.671
+White Button Mushrooms,13.297,2.233,4.12
+White Jasmine Rice,9.628,1.045,3.288
+White Jasmine Rice,9.628,2.672,2.858
+White Jasmine Rice,9.628,1.498,3.415
+White Jasmine Rice,9.628,2.998,2.821
+White Jasmine Rice,9.628,2.009,2.965
+White Long-Grain Rice,12.054,1.015,3.871
+White Long-Grain Rice,12.054,2.981,3.097
+White Long-Grain Rice,12.054,2.588,3.201
+White Long-Grain Rice,12.054,2.659,3.542
+White Long-Grain Rice,12.054,2.596,3.489
+White Onions,9.9,3.191,2.361
+White Onions,9.9,1.193,3.393
+White Onions,9.9,2.309,3.167
+White Onions,9.9,3.598,2.609
+White Onions,9.9,3.812,2.072
+White Peaches,13.864,1.748,4.307
+White Peaches,13.864,2.822,4.437
+White Peaches,13.864,1.376,4.278
+White Peaches,13.864,1.667,4.185
+White Peaches,13.864,1.773,5.128
+White Quinoa,11.659,1.278,4.053
+White Quinoa,11.659,1.011,4.264
+White Quinoa,11.659,3.986,2.59
+White Quinoa,11.659,1.678,3.817
+White Quinoa,11.659,2.843,3.14
+Whole Lobster,11.508,3.652,3.112
+Whole Lobster,11.508,2.933,3.695
+Whole Lobster,11.508,2.094,3.813
+Whole Lobster,11.508,3.845,3.074
+Whole Lobster,11.508,2.91,2.935
+Whole Milk,10.212,3.461,2.324
+Whole Milk,10.212,3.867,2.552
+Whole Milk,10.212,2.975,2.952
+Whole Milk,10.212,1.994,3.088
+Whole Milk,10.212,2.24,2.899
+Whole Pineapple,12.463,1.572,3.838
+Whole Pineapple,12.463,3.588,3.024
+Whole Pineapple,12.463,3.906,3.103
+Whole Pineapple,12.463,3.673,3.716
+Whole Pineapple,12.463,2.372,3.534
+Whole Wheat Bread,9.478,3.362,2.458
+Whole Wheat Bread,9.478,1.967,3.029
+Whole Wheat Bread,9.478,2.404,2.929
+Whole Wheat Bread,9.478,1.452,2.686
+Whole Wheat Bread,9.478,3.609,2.386
+Whole Wheat Tortillas,10.483,3.779,2.283
+Whole Wheat Tortillas,10.483,3.758,2.815
+Whole Wheat Tortillas,10.483,1.387,3.344
+Whole Wheat Tortillas,10.483,3.75,2.365
+Whole Wheat Tortillas,10.483,3.077,2.706
+Wild Caught Salmon,9.602,2.394,2.507
+Wild Caught Salmon,9.602,3.407,2.567
+Wild Caught Salmon,9.602,2.716,2.378
+Wild Caught Salmon,9.602,3.774,2.126
+Wild Caught Salmon,9.602,3.736,2.09
+Wildflower Honey,11.547,1.782,4.147
+Wildflower Honey,11.547,3.608,3.427
+Wildflower Honey,11.547,2.887,3.085
+Wildflower Honey,11.547,2.475,3.272
+Wildflower Honey,11.547,2.021,3.779
+Yellow Bell Peppers,10.574,2.551,2.763
+Yellow Bell Peppers,10.574,2.969,3.228
+Yellow Bell Peppers,10.574,3.419,2.999
+Yellow Bell Peppers,10.574,2.369,3.272
+Yellow Bell Peppers,10.574,2.367,3.279
+Yellow Mustard,9.166,1.09,3.498
+Yellow Mustard,9.166,3.412,2.351
+Yellow Mustard,9.166,1.816,2.869
+Yellow Mustard,9.166,3.153,2.128
+Yellow Mustard,9.166,1.372,3.062
+Yellow Onions,10.807,1.366,3.817
+Yellow Onions,10.807,1.469,3.755
+Yellow Onions,10.807,2.092,3.261
+Yellow Onions,10.807,1.392,3.388
+Yellow Onions,10.807,3.053,3.15
+Yellow Peaches,12.788,2.818,3.881
+Yellow Peaches,12.788,2.996,3.297
+Yellow Peaches,12.788,1.81,3.987
+Yellow Peaches,12.788,1.553,3.815
+Yellow Peaches,12.788,3.691,3.541
+Yellowfin Tuna,8.48,1.33,2.427
+Yellowfin Tuna,8.48,3.71,2.022
+Yellowfin Tuna,8.48,3.723,1.602
+Yellowfin Tuna,8.48,3.651,1.777
+Yellowfin Tuna,8.48,2.357,2.166
+Yogurt Parfait,10.714,1.975,3.334
+Yogurt Parfait,10.714,2.823,2.656
+Yogurt Parfait,10.714,2.298,3.104
+Yogurt Parfait,10.714,3.881,2.586
+Yogurt Parfait,10.714,2.913,2.838
+Yukon Gold Potatoes,13.011,2.377,4.4
+Yukon Gold Potatoes,13.011,3.45,3.435
+Yukon Gold Potatoes,13.011,1.586,4.442
+Yukon Gold Potatoes,13.011,2.142,3.838
+Yukon Gold Potatoes,13.011,2.113,4.672
+Cheddar Cheese Slices,10.166,3.684,2.378
+Cheddar Cheese Slices,10.166,1.466,3.229
+Cheddar Cheese Slices,10.166,3.37,2.814
+Cheddar Cheese Slices,10.166,1.729,3.599
+Cheddar Cheese Slices,10.166,2.787,2.868
+Gouda Cheese Slices,14.826,2.656,4.682
+Gouda Cheese Slices,14.826,2.56,4.388
+Gouda Cheese Slices,14.826,1.744,5.111
+Gouda Cheese Slices,14.826,3.658,3.8
+Gouda Cheese Slices,14.826,1.934,4.942
+Provolone Cheese Slices,8.343,3.762,1.889
+Provolone Cheese Slices,8.343,2.082,2.584
+Provolone Cheese Slices,8.343,1.638,2.844
+Provolone Cheese Slices,8.343,1.483,2.737
+Provolone Cheese Slices,8.343,3.768,1.783
+Mozzarella Cheese Slices,11.143,2.261,3.12
+Mozzarella Cheese Slices,11.143,2.097,3.208
+Mozzarella Cheese Slices,11.143,1.812,3.77
+Mozzarella Cheese Slices,11.143,1.44,3.448
+Mozzarella Cheese Slices,11.143,3.953,3.024
+Pepper Jack Cheese Slices,10.877,3.353,2.591
+Pepper Jack Cheese Slices,10.877,2.014,3.555
+Pepper Jack Cheese Slices,10.877,1.37,3.336
+Pepper Jack Cheese Slices,10.877,1.062,3.892
+Pepper Jack Cheese Slices,10.877,1.407,3.402
+Colby Cheese Slices,14.208,2.449,5.063
+Colby Cheese Slices,14.208,1.16,4.544
+Colby Cheese Slices,14.208,2.453,5.077
+Colby Cheese Slices,14.208,2.844,4.626
+Colby Cheese Slices,14.208,1.888,4.486
+American Cheese Slices,13.001,2.092,4.59
+American Cheese Slices,13.001,3.372,4.163
+American Cheese Slices,13.001,1.871,4.306
+American Cheese Slices,13.001,2.831,3.503
+American Cheese Slices,13.001,2.351,3.978
+Havarti Cheese Slices,14.358,3.414,3.723
+Havarti Cheese Slices,14.358,1.768,4.889
+Havarti Cheese Slices,14.358,3.031,3.788
+Havarti Cheese Slices,14.358,3.06,3.972
+Havarti Cheese Slices,14.358,2.919,4.87
+Monterey Jack Cheese Slices,13.817,3.458,3.84
+Monterey Jack Cheese Slices,13.817,3.577,4.42
+Monterey Jack Cheese Slices,13.817,1.628,4.327
+Monterey Jack Cheese Slices,13.817,2.587,3.92
+Monterey Jack Cheese Slices,13.817,3.475,3.788
+Muenster Cheese Slices,11.689,3.776,2.771
+Muenster Cheese Slices,11.689,1.156,4.154
+Muenster Cheese Slices,11.689,3.06,3.345
+Muenster Cheese Slices,11.689,2.485,3.485
+Muenster Cheese Slices,11.689,3.56,2.803
+Sriracha Sauce,10.818,2.241,3.216
+Sriracha Sauce,10.818,2.359,3.583
+Sriracha Sauce,10.818,2.129,3.759
+Sriracha Sauce,10.818,2.626,2.934
+Sriracha Sauce,10.818,3.139,2.701
+Frank's RedHot Sauce,14.686,1.233,4.818
+Frank's RedHot Sauce,14.686,2.224,4.181
+Frank's RedHot Sauce,14.686,1.692,4.976
+Frank's RedHot Sauce,14.686,2.737,4.482
+Frank's RedHot Sauce,14.686,3.18,4.817
+Cholula Hot Sauce,10.606,3.187,2.701
+Cholula Hot Sauce,10.606,2.398,2.846
+Cholula Hot Sauce,10.606,2.756,3.206
+Cholula Hot Sauce,10.606,3.283,2.945
+Cholula Hot Sauce,10.606,1.759,3.447
+Tortilla Shells,8.244,2.823,2.256
+Tortilla Shells,8.244,2.702,2.246
+Tortilla Shells,8.244,2.116,2.34
+Tortilla Shells,8.244,3.156,2.046
+Tortilla Shells,8.244,1.006,2.747
+Nacho Shells,13.654,1.985,4.37
+Nacho Shells,13.654,1.073,5.066
+Nacho Shells,13.654,3.182,4.403
+Nacho Shells,13.654,2.598,3.914
+Nacho Shells,13.654,3.071,3.55
+Corn Taco Shells,12.159,3.168,3.03
+Corn Taco Shells,12.159,3.682,3.084
+Corn Taco Shells,12.159,1.59,4.504
+Corn Taco Shells,12.159,3.8,3.54
+Corn Taco Shells,12.159,2.3,4.208
+Honey Teriyaki Chicken Wings,11.384,1.276,3.559
+Honey Teriyaki Chicken Wings,11.384,2.715,3.237
+Honey Teriyaki Chicken Wings,11.384,1.253,4.27
+Honey Teriyaki Chicken Wings,11.384,1.95,3.237
+Honey Teriyaki Chicken Wings,11.384,2.489,3.594
+Sweet and Spicy Teriyaki Chicken Wings,11.081,3.761,2.79
+Sweet and Spicy Teriyaki Chicken Wings,11.081,1.578,3.749
+Sweet and Spicy Teriyaki Chicken Wings,11.081,3.351,2.857
+Sweet and Spicy Teriyaki Chicken Wings,11.081,3.488,2.57
+Sweet and Spicy Teriyaki Chicken Wings,11.081,2.059,3.789
+Ginger Garlic Teriyaki Chicken Wings,13.249,1.591,4.73
+Ginger Garlic Teriyaki Chicken Wings,13.249,2.591,4.056
+Ginger Garlic Teriyaki Chicken Wings,13.249,1.288,5.119
+Ginger Garlic Teriyaki Chicken Wings,13.249,3.091,3.835
+Ginger Garlic Teriyaki Chicken Wings,13.249,3.98,3.97
+Russet Potatoes,13.087,1.061,4.097
+Russet Potatoes,13.087,2.761,3.536
+Russet Potatoes,13.087,1.503,4.8
+Russet Potatoes,13.087,3.501,3.521
+Russet Potatoes,13.087,1.185,4.241
+Red Potatoes,12.75,2.871,3.82
+Red Potatoes,12.75,1.826,4.53
+Red Potatoes,12.75,3.773,3.872
+Red Potatoes,12.75,1.694,3.954
+Red Potatoes,12.75,1.939,4.39
+Fingerling Potatoes,14.303,1.554,5.309
+Fingerling Potatoes,14.303,3.056,4.43
+Fingerling Potatoes,14.303,2.631,4.913
+Fingerling Potatoes,14.303,1.128,5.018
+Fingerling Potatoes,14.303,2.621,4.526
+Classic Peanut Butter Cookies,11.136,1.607,3.849
+Classic Peanut Butter Cookies,11.136,1.959,3.352
+Classic Peanut Butter Cookies,11.136,3.21,2.872
+Classic Peanut Butter Cookies,11.136,2.837,3.491
+Classic Peanut Butter Cookies,11.136,2.087,3.555
+Crunchy Peanut Butter Cookies,11.394,2.437,3.035
+Crunchy Peanut Butter Cookies,11.394,2.693,2.989
+Crunchy Peanut Butter Cookies,11.394,3.546,2.697
+Crunchy Peanut Butter Cookies,11.394,1.333,3.659
+Crunchy Peanut Butter Cookies,11.394,2.867,3.369
+Chocolate Chip Peanut Butter Cookies,13.886,2.274,4.448
+Chocolate Chip Peanut Butter Cookies,13.886,2.387,4.431
+Chocolate Chip Peanut Butter Cookies,13.886,3.366,4.483
+Chocolate Chip Peanut Butter Cookies,13.886,2.284,4.811
+Chocolate Chip Peanut Butter Cookies,13.886,1.427,4.395
+Greek Yogurt,13.809,1.445,5.325
+Greek Yogurt,13.809,2.275,3.861
+Greek Yogurt,13.809,3.201,4.37
+Greek Yogurt,13.809,3.711,3.45
+Greek Yogurt,13.809,1.325,4.243
+Natural Yogurt,8.881,1.716,3.053
+Natural Yogurt,8.881,3.437,2.141
+Natural Yogurt,8.881,2.463,2.271
+Natural Yogurt,8.881,3.765,2.087
+Natural Yogurt,8.881,1.315,3.049
+Whole Milk Yogurt,8.669,1.989,2.623
+Whole Milk Yogurt,8.669,2.63,2.611
+Whole Milk Yogurt,8.669,2.558,2.556
+Whole Milk Yogurt,8.669,1.579,2.542
+Whole Milk Yogurt,8.669,1.626,2.418
+Hot Ketchup,13.958,1.789,4.224
+Hot Ketchup,13.958,3.324,4.367
+Hot Ketchup,13.958,1.27,5.459
+Hot Ketchup,13.958,3.885,3.419
+Hot Ketchup,13.958,1.09,4.793
+Spicy Tomato Ketchup,13.536,1.984,4.23
+Spicy Tomato Ketchup,13.536,3.038,4.352
+Spicy Tomato Ketchup,13.536,3.626,3.345
+Spicy Tomato Ketchup,13.536,2.842,3.744
+Spicy Tomato Ketchup,13.536,3.905,4.16
+Chili Ketchup,10.306,1.64,3.408
+Chili Ketchup,10.306,3.483,2.361
+Chili Ketchup,10.306,2.542,3.088
+Chili Ketchup,10.306,2.007,2.993
+Chili Ketchup,10.306,3.451,2.56
+Chocolate-Filled Biscuits,11.524,3.031,3.172
+Chocolate-Filled Biscuits,11.524,3.447,3.032
+Chocolate-Filled Biscuits,11.524,2.598,3.818
+Chocolate-Filled Biscuits,11.524,1.534,3.733
+Chocolate-Filled Biscuits,11.524,1.982,3.909
+Hazelnut Cream-Filled Biscuits,9.785,2.028,2.765
+Hazelnut Cream-Filled Biscuits,9.785,3.57,2.17
+Hazelnut Cream-Filled Biscuits,9.785,2.203,2.552
+Hazelnut Cream-Filled Biscuits,9.785,3.686,2.388
+Hazelnut Cream-Filled Biscuits,9.785,2.512,2.696
+Cocoa Biscuits with Hazelnut Filling,9.406,3.593,2.382
+Cocoa Biscuits with Hazelnut Filling,9.406,3.987,1.927
+Cocoa Biscuits with Hazelnut Filling,9.406,2.772,2.616
+Cocoa Biscuits with Hazelnut Filling,9.406,1.185,3.223
+Cocoa Biscuits with Hazelnut Filling,9.406,1.135,3.403
+Classic Margherita Pizza,14.642,1.275,5.103
+Classic Margherita Pizza,14.642,3.701,3.828
+Classic Margherita Pizza,14.642,1.913,5.357
+Classic Margherita Pizza,14.642,2.175,4.735
+Classic Margherita Pizza,14.642,3.804,4.511
+Fresh Mozzarella Pizza,8.468,3.187,2.129
+Fresh Mozzarella Pizza,8.468,2.41,2.45
+Fresh Mozzarella Pizza,8.468,1.167,2.804
+Fresh Mozzarella Pizza,8.468,2.432,2.225
+Fresh Mozzarella Pizza,8.468,1.855,2.288
+Tomato and Mozzarella Pizza,9.199,2.72,2.771
+Tomato and Mozzarella Pizza,9.199,1.468,3.269
+Tomato and Mozzarella Pizza,9.199,3.437,2.18
+Tomato and Mozzarella Pizza,9.199,1.76,2.898
+Tomato and Mozzarella Pizza,9.199,3.785,1.827
+Whole Wheat Multigrain Bread,12.447,2.426,4.228
+Whole Wheat Multigrain Bread,12.447,1.086,4.809
+Whole Wheat Multigrain Bread,12.447,2.401,3.556
+Whole Wheat Multigrain Bread,12.447,3.926,3.089
+Whole Wheat Multigrain Bread,12.447,3.536,3.713
+Seeded Multigrain Bread,14.802,1.506,4.909
+Seeded Multigrain Bread,14.802,3.177,4.329
+Seeded Multigrain Bread,14.802,2.427,4.27
+Seeded Multigrain Bread,14.802,1.961,4.991
+Seeded Multigrain Bread,14.802,2.9,4.696
+Oat and Flax Multigrain Bread,13.034,1.833,4.181
+Oat and Flax Multigrain Bread,13.034,2.472,3.639
+Oat and Flax Multigrain Bread,13.034,3.908,3.583
+Oat and Flax Multigrain Bread,13.034,1.353,4.903
+Oat and Flax Multigrain Bread,13.034,2.724,3.997
+Raw Honey,11.987,1.563,3.898
+Raw Honey,11.987,3.597,3.37
+Raw Honey,11.987,1.178,4.663
+Raw Honey,11.987,3.199,3.561
+Raw Honey,11.987,3.79,3.482
+Organic Honey,9.066,1.047,3.39
+Organic Honey,9.066,3.207,1.978
+Organic Honey,9.066,2.289,2.884
+Organic Honey,9.066,1.276,3.116
+Organic Honey,9.066,2.648,2.245
+Artisanal Honey,8.164,3.723,1.764
+Artisanal Honey,8.164,1.919,2.506
+Artisanal Honey,8.164,3.596,1.758
+Artisanal Honey,8.164,3.689,1.559
+Artisanal Honey,8.164,2.912,1.76
+Peanut Butter and Go Snack Packs,14.393,1.334,5.478
+Peanut Butter and Go Snack Packs,14.393,3.72,4.399
+Peanut Butter and Go Snack Packs,14.393,1.285,5.244
+Peanut Butter and Go Snack Packs,14.393,2.056,5.325
+Peanut Butter and Go Snack Packs,14.393,1.611,4.669
+Almond Butter and Go Snack Packs,14.72,3.064,4.103
+Almond Butter and Go Snack Packs,14.72,2.852,4.613
+Almond Butter and Go Snack Packs,14.72,2.355,4.194
+Almond Butter and Go Snack Packs,14.72,3.678,4.06
+Almond Butter and Go Snack Packs,14.72,1.78,5.094
+Chocolate Spread and Go Snack Packs,8.257,3.522,1.945
+Chocolate Spread and Go Snack Packs,8.257,1.389,2.777
+Chocolate Spread and Go Snack Packs,8.257,3.233,1.929
+Chocolate Spread and Go Snack Packs,8.257,1.499,2.426
+Chocolate Spread and Go Snack Packs,8.257,1.769,2.802
+Red Bell Pepper,10.291,1.346,3.295
+Red Bell Pepper,10.291,2.739,3.13
+Red Bell Pepper,10.291,1.938,3.599
+Red Bell Pepper,10.291,1.807,3.106
+Red Bell Pepper,10.291,1.796,3.185
+Yellow Bell Pepper,12.784,3.86,3.244
+Yellow Bell Pepper,12.784,3.799,3.022
+Yellow Bell Pepper,12.784,1.278,4.437
+Yellow Bell Pepper,12.784,2.579,4.316
+Yellow Bell Pepper,12.784,1.995,4.665
+Orange Bell Pepper,8.033,3.647,1.743
+Orange Bell Pepper,8.033,2.055,2.414
+Orange Bell Pepper,8.033,1.243,2.6
+Orange Bell Pepper,8.033,1.817,2.203
+Orange Bell Pepper,8.033,2.813,2.22
+Ribeye Steak,9.509,1.71,3.372
+Ribeye Steak,9.509,3.128,2.398
+Ribeye Steak,9.509,2.866,2.563
+Ribeye Steak,9.509,2.559,2.929
+Ribeye Steak,9.509,3.355,2.364
+New York Strip Steak,8.207,1.587,2.667
+New York Strip Steak,8.207,2.435,2.259
+New York Strip Steak,8.207,1.439,2.747
+New York Strip Steak,8.207,3.256,1.862
+New York Strip Steak,8.207,2.993,1.827
+Tenderloin Steak,14.863,1.497,4.672
+Tenderloin Steak,14.863,2.069,5.31
+Tenderloin Steak,14.863,3.99,4.135
+Tenderloin Steak,14.863,1.811,4.816
+Tenderloin Steak,14.863,2.155,5.385
+Honeycrisp Apples,9.809,3.028,2.614
+Honeycrisp Apples,9.809,1.075,3.422
+Honeycrisp Apples,9.809,3.522,2.64
+Honeycrisp Apples,9.809,2.856,2.824
+Honeycrisp Apples,9.809,1.265,3.062
+Fuji Apples,8.765,1.707,2.434
+Fuji Apples,8.765,1.047,3.223
+Fuji Apples,8.765,3.759,1.843
+Fuji Apples,8.765,1.197,3.073
+Fuji Apples,8.765,1.23,2.52
+Gala Apples,8.157,3.159,1.786
+Gala Apples,8.157,1.257,2.977
+Gala Apples,8.157,3.284,2.016
+Gala Apples,8.157,3.44,1.692
+Gala Apples,8.157,2.447,2.469
+Almond Milk,13.89,1.564,4.62
+Almond Milk,13.89,2.731,4.485
+Almond Milk,13.89,2.643,4.192
+Almond Milk,13.89,1.592,4.414
+Almond Milk,13.89,2.573,4.109
+Soy Milk,9.195,2.51,2.62
+Soy Milk,9.195,2.042,2.826
+Soy Milk,9.195,2.039,2.854
+Soy Milk,9.195,3.287,2.215
+Soy Milk,9.195,1.402,2.656
+Coconut Milk,13.442,2.549,4.11
+Coconut Milk,13.442,1.161,4.499
+Coconut Milk,13.442,3.0,3.805
+Coconut Milk,13.442,1.252,4.226
+Coconut Milk,13.442,2.844,4.083
+Mango Juice,11.187,3.213,3.447
+Mango Juice,11.187,1.562,3.526
+Mango Juice,11.187,3.668,3.175
+Mango Juice,11.187,3.412,2.675
+Mango Juice,11.187,1.28,3.564
+Orange Juice with Pineapple,13.552,1.766,4.411
+Orange Juice with Pineapple,13.552,1.336,5.257
+Orange Juice with Pineapple,13.552,2.515,4.512
+Orange Juice with Pineapple,13.552,3.75,3.604
+Orange Juice with Pineapple,13.552,1.217,4.795
+Pineapple-Orange Juice Blend,9.548,1.839,2.84
+Pineapple-Orange Juice Blend,9.548,2.987,2.567
+Pineapple-Orange Juice Blend,9.548,3.977,2.167
+Pineapple-Orange Juice Blend,9.548,3.657,2.125
+Pineapple-Orange Juice Blend,9.548,2.232,2.817
+Yellow Onions,10.071,3.684,2.186
+Yellow Onions,10.071,1.809,2.818
+Yellow Onions,10.071,1.808,2.932
+Yellow Onions,10.071,2.153,3.374
+Yellow Onions,10.071,2.701,2.472
+White Onions,11.29,2.083,3.194
+White Onions,11.29,1.985,3.285
+White Onions,11.29,1.392,3.535
+White Onions,11.29,1.603,3.731
+White Onions,11.29,3.214,3.499
+Sweet Onions,13.834,2.07,4.421
+Sweet Onions,13.834,2.5,4.301
+Sweet Onions,13.834,2.331,4.177
+Sweet Onions,13.834,2.878,4.361
+Sweet Onions,13.834,1.577,5.065
+Butter-Seared Sea Scallops,11.383,2.58,3.042
+Butter-Seared Sea Scallops,11.383,2.955,3.245
+Butter-Seared Sea Scallops,11.383,2.86,3.502
+Butter-Seared Sea Scallops,11.383,2.934,3.443
+Butter-Seared Sea Scallops,11.383,2.569,3.812
+Pan-Seared Diver Scallops,11.939,2.368,3.244
+Pan-Seared Diver Scallops,11.939,3.45,3.19
+Pan-Seared Diver Scallops,11.939,3.823,2.717
+Pan-Seared Diver Scallops,11.939,2.796,3.793
+Pan-Seared Diver Scallops,11.939,2.155,3.403
+Grilled Scallops with Lemon Butter,10.806,1.186,3.605
+Grilled Scallops with Lemon Butter,10.806,1.187,3.332
+Grilled Scallops with Lemon Butter,10.806,2.224,3.306
+Grilled Scallops with Lemon Butter,10.806,3.945,2.578
+Grilled Scallops with Lemon Butter,10.806,2.347,3.192
